@@ -1,0 +1,21 @@
+{
+  // Details: https://github.com/victorporof/Sublime-JSHint#using-your-own-jshintrc-options
+  // Example: https://github.com/jshint/jshint/blob/master/examples/.jshintrc
+  // Documentation: http://www.jshint.com/docs/
+  "@disable": false,
+  "args": [],
+  "browser": true,
+  "curly": true,
+  "eqeqeq": true,
+  "evil": true,
+  "excludes": [],
+  "indent": 2,
+  "jquery": true,
+  "quotmark": "single",
+  "regexdash": true,
+  "smarttabs": false,
+  "sub": true,
+  "trailing": true,
+  "undef": true,
+  "wsh": true
+}

@@ -1,0 +1,6619 @@
+{
+	"folder_history":
+	[
+		"/Users/gavin/localhost/vagrant/src/facebook-commerce",
+		"/Users/gavin/localhost/shopify-facebookapp",
+		"/Users/gavin/localhost/brochure2",
+		"/Users/gavin/localhost/vagrant/src/shopify",
+		"/Users/gavin/localhost/marketing_assets",
+		"/Users/gavin/localhost/www.shopify.com",
+		"/Users/gavin",
+		"/Users/gavin/localhost/shopify-themesettings",
+		"/Users/gavin/localhost/statly",
+		"/Users/gavin/localhost/webfontloader",
+		"/Users/gavin/Desktop/ItemTransitions",
+		"/Users/gavin/Downloads/trevorhenry",
+		"/Users/gavin/localhost/vagrant/src/shopify/app",
+		"/Users/gavin/localhost/vagrant/src",
+		"/Users/gavin/localhost/sandbox/fonts-dropdown",
+		"/Users/gavin/localhost/ghost",
+		"/Users/gavin/localhost/documentation"
+	],
+	"last_version": 3059,
+	"last_window_id": 256,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1156.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"backg",
+						"background-position"
+					],
+					[
+						"no",
+						"none"
+					],
+					[
+						"defa",
+						"default_border_radius"
+					],
+					[
+						"def",
+						"default_border_radius"
+					],
+					[
+						"nav-",
+						"nav-alt-dark"
+					],
+					[
+						"navl",
+						"nav-alt-dark"
+					],
+					[
+						"ta",
+						"ta:c	text-align:center"
+					],
+					[
+						"white",
+						"white-space"
+					],
+					[
+						"heading_",
+						"heading__segment-background"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"heading",
+						"heading-grid__item"
+					],
+					[
+						"tt",
+						"tt:u	text-transform:uppercase"
+					],
+					[
+						"po",
+						"pos:a	position:absolute"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"cat",
+						"categoryUrl"
+					],
+					[
+						"cate",
+						"categorySlug"
+					],
+					[
+						"selec",
+						"selectedOptionValue"
+					],
+					[
+						"categ",
+						"categoryName"
+					],
+					[
+						"sele",
+						"selectedIndex"
+					],
+					[
+						"translat",
+						"translations_target"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"StoreExamp",
+						"StoreExampleCategory"
+					],
+					[
+						"pre",
+						"prevItem"
+					],
+					[
+						"transi",
+						"transition-out"
+					],
+					[
+						"trans",
+						"transitionended"
+					],
+					[
+						"prepare",
+						"prepareTransition"
+					],
+					[
+						"tran",
+						"transition-in"
+					],
+					[
+						"modal",
+						"modalDom"
+					],
+					[
+						"active",
+						"activeSource"
+					],
+					[
+						"curr",
+						"currentIndex"
+					],
+					[
+						"current",
+						"currentRotation"
+					],
+					[
+						"curren",
+						"currentFlipSide"
+					],
+					[
+						"select",
+						"selectContainer"
+					],
+					[
+						"html",
+						"innerHTML"
+					],
+					[
+						"sel",
+						"selectElement"
+					],
+					[
+						"exampl",
+						"exampleModals"
+					],
+					[
+						"video",
+						"video_attributes"
+					],
+					[
+						"image",
+						"image_large"
+					],
+					[
+						"example-",
+						"example-commondeer-large"
+					],
+					[
+						"ex",
+						"exampleData"
+					],
+					[
+						"onlin",
+						"onlineExampleData"
+					],
+					[
+						"moda",
+						"modalDom"
+					],
+					[
+						"store-e",
+						"store-examples-item__screenshot"
+					],
+					[
+						"acti",
+						"activeElement"
+					],
+					[
+						"key",
+						"keyCodes"
+					],
+					[
+						"prev",
+						"preventDefault"
+					],
+					[
+						"prepa",
+						"prepareTransition"
+					],
+					[
+						"dom",
+						"modalDom"
+					],
+					[
+						"mo",
+						"modalDom"
+					],
+					[
+						"close",
+						"closeBtn"
+					],
+					[
+						"Mo",
+						"ModalItems"
+					],
+					[
+						"ke",
+						"keyboardToggle"
+					],
+					[
+						"sett",
+						"settingsToggle"
+					],
+					[
+						"Store",
+						"StorefrontPanel"
+					],
+					[
+						"setup",
+						"setupViewElements"
+					],
+					[
+						"init",
+						"initPrototypeFunctionality"
+					],
+					[
+						"them",
+						"themeEditorPrototype"
+					],
+					[
+						"save",
+						"saveButton"
+					],
+					[
+						"toggle",
+						"toggleSettingsPanel"
+					],
+					[
+						"togg",
+						"toggleSettingsPanel"
+					],
+					[
+						"settin",
+						"settingsChangesMade"
+					],
+					[
+						"theme",
+						"themeSettingsChanged"
+					],
+					[
+						"con",
+						"confirmPageExitAlert"
+					],
+					[
+						"mouse",
+						"mouseOverDelay"
+					],
+					[
+						"page",
+						"pageWrapper"
+					],
+					[
+						"frames",
+						"framesLoaded"
+					],
+					[
+						"Sett",
+						"SettingsPanel"
+					],
+					[
+						"set",
+						"settingsBody"
+					],
+					[
+						"fea",
+						"featuredFonts"
+					],
+					[
+						"fon",
+						"fontsToDisplay"
+					],
+					[
+						"use",
+						"use_webfontloader"
+					],
+					[
+						"Web",
+						"WebFontConfig"
+					],
+					[
+						"api",
+						"apiUrlAttrs"
+					],
+					[
+						"font",
+						"fontList"
+					],
+					[
+						"add",
+						"addressPreview"
+					],
+					[
+						"shi",
+						"shipping_toggle"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"mob",
+						"mobile-header-height"
+					],
+					[
+						"email",
+						"emailDate"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"form",
+						"form_padding"
+					],
+					[
+						"reas",
+						"reasons__item"
+					],
+					[
+						"wind",
+						"windowHeight"
+					],
+					[
+						"inn",
+						"innerHeight"
+					],
+					[
+						"palm",
+						"palm_down"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"animation",
+						"animation-direction"
+					],
+					[
+						"nav_",
+						"nav_transition"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"bi",
+						"background-image"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"tex",
+						"text-align-last"
+					],
+					[
+						"mb",
+						"margin-bottom"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"cont",
+						"content__section"
+					],
+					[
+						"content",
+						"content__section"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"content__sec",
+						"content__section-fullwidth"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"content_",
+						"content__section-fullwidth"
+					],
+					[
+						"gra",
+						"gray_light"
+					],
+					[
+						"lap_",
+						"lap_up"
+					],
+					[
+						"plus",
+						"plus-logo"
+					],
+					[
+						"body-",
+						"body-title"
+					],
+					[
+						"bord",
+						"border-radius"
+					],
+					[
+						"up",
+						"uppercase"
+					],
+					[
+						"txt",
+						"text-align"
+					],
+					[
+						"td",
+						"td:n	text-decoration:none"
+					],
+					[
+						"tog",
+						"toggle_arrow_at"
+					],
+					[
+						"sc",
+						"scrollY"
+					],
+					[
+						"che",
+						"checkboxContainer"
+					],
+					[
+						"ema",
+						"emailRegex"
+					],
+					[
+						"validate",
+						"validateField"
+					],
+					[
+						"val",
+						"validStatus"
+					],
+					[
+						"vali",
+						"validateField"
+					],
+					[
+						"ver",
+						"vertical-align"
+					],
+					[
+						"res",
+						"resizeWindow"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"list-style",
+						"list-style-type"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 228.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"sitemap",
+						"Snippet: handlebars template"
+					],
+					[
+						"transform",
+						"Snippet: text-transform"
+					]
+				],
+				"width": 568.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/gavin/localhost/vagrant/src/shopify/public/assets/vendor-bundle.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/public/global/controls.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/products/product.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/services/product_create_service.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/product.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/Procfile",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/pagination_restrictions.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/files/product_collections_imports.csv",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/option.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/admin/no_sidebar.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/concerns/embedded_metafields.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/helpers/admin/embedded_app_helper.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/development_support/embedded-app-example.html",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/unit/helpers/admin/embedded_app_helper_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/fraud_analysis/email_blacklist_filter.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/externals_middleware.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/equivs.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/unit/embedded_metafields_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/development_support/embedded-app-modal-example.html",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/fixtures/modules/embedded_app.html",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/embedded_app.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/unit/modules/embedded_app_test.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/embedded_app_buttons.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/unit/modules/embedded_app_buttons_test.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/views/apps/embedded_app_view.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_embedded_app.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/partner/modules/_embedded_app.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/lhm/20140721165637_pos_embedded_api_clients.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/vendor/assets/javascripts/codemirror/mode/htmlembedded.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/vendor/codemirror/mode/htmlembedded.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/remote/vcr_cassettes/remote_opensrs_domain_test/register_with_handle_save_and_bad_contact_set_does_not_raise_exception_for_uk_domain.yml",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/emails/abandoned_checkout_notification.liquid",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/concerns/embedded_product.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_btn.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/areas/_theme_languages.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_seo_search_optimization.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_content_index.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/theme_languages/_locale_row.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/unit/private_s3_bucket_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/migrate/20140603183431_update_payments_configuration_key_2362063.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/public_s3_bucket.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/private_storage_bucket.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/private_s3_bucket.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/expire_store_cache_worker.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/concerns/shopify_cache_key_data.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/subscriptions_next/_pick_period.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/lib/publishable_datepicker.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/dashboard/_datepicker.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/vendor/jquery-timepicker.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/views/shared/datepicker_view.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/subscriptions_next/pick_period.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/initializers/colorpicker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/unit/modules/single_select_resource_picker_test.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/single_select_resource_picker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/rte/_rte_picker_colors.js.htm",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/components/dropdown-color-picker.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/dashboard/dashboard_date_picker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/shared/_rte_picker_colors.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/time_picker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/date_picker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/unit/date_picker_test.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin/date-picker.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/admin/product_images_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/middleware/preread_input.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/functional/admin/theme_languages_controller_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/helpers/admin/theme_languages_helper.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/admin/theme_languages_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/theme_layout_asset.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/theme_asset.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/theme.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/theme_earning.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/timeline_helper.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/script/tdd",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_google_adwords_coupon.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_fifty_ways_to_sell.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_facebook_store.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_facebook_app_connect.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_discount.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_abandoned_cart.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/tasks/browser_tests.rake",
+				"/Users/gavin/localhost/vagrant/src/shopify/borg/build",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/style.css.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/dependencies/_datauri_svg.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/orders/_dispute.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/orders/show.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/filtering/table_filter.js.htm",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_onboarding_dashboard.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/dashboard/onboarding_tasks/_add_product.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/dashboard/index.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_tabs.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/services/internal/feature_announcements/_form.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/tab.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/dependencies/_colors.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/vendor/reportify/graph.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/index.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/data/payments/balance_transaction_with_null_source.json",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/signup/marketing_assets/components/_buttons.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/lhm/20140602183039_add_billing_account_to_long_term_subscriptions.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/lhm/20140602190637_add_billing_accounts_index_to_billing_transactions.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/maintenance/maintenance/payments_update_balance_transactions_transaction_id_blank_to_null_task.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/models/bulk_tag_operation.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/lhm/20140602183100_add_billing_account_to_invoice_transactions.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/unit/liquid/filters/checkout_button_filter_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/lib/button_loading_indicator.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/components/button-reports.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/partner/modules/_next-button.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_next-button.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/components/button-segmented.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/button.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/maintenance/maintenance/backfill_uafrica_reseller_partnerships_task.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/files/bad_utf8_customer.csv",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_content_index.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_icon.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_box.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/products/_alternate_show.js.htm",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/next/modules/_table.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/products/index.html.erb",
+				"/Users/gavin/Desktop/projects/shopify.sublime-project",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/concerns/bulk_operations.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/reports/report_view.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/vendor/reportify/table.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/config/routes.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/random_open_port.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/Rakefile",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/admin/admin.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/admin/admin2.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/signup_mailer.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/shopify2_mailer.html.erb"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"",
+					"*.coffee",
+					"",
+					"app/views",
+					"",
+					"*.rb",
+					"",
+					"app/helpers",
+					"app/controllers",
+					"",
+					"app/assets",
+					"",
+					"test/javascripts/view/",
+					"/test/javascripts/view/",
+					"",
+					"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/controllers",
+					"",
+					"*.js.coffee",
+					"",
+					"*.scss",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\"Selected\"",
+					"selectionChanged",
+					"selectionChanged()",
+					"content_class",
+					"admin/embedded",
+					"picker",
+					"locale_row",
+					"_locale_row",
+					"theme_language-actions",
+					"btn-dismiss",
+					"btn--plain",
+					"background-color",
+					"ico",
+					":hover",
+					"border: non",
+					"btn",
+					"btn-dismiss",
+					".btn",
+					"ico-close-circle",
+					"content_for",
+					"disclosure-icon-blue",
+					"box-header-action",
+					"form_for",
+					"order_tags",
+					"ox-header",
+					"address_box",
+					".box-header-action",
+					"box-header-action",
+					"Filter products",
+					"start typing to search for prod",
+					"table_filter",
+					"filter-dropdown",
+					"id",
+					"Reportify.Table",
+					"d3",
+					"advisor-completed",
+					"completed",
+					"ico",
+					"svg",
+					"themes-purchase",
+					"advisor-store-front",
+					"announcements-empty",
+					"advisor-discounts",
+					"noicon",
+					"vertical center",
+					".content-index",
+					"you have not completed",
+					"we don't have any rec",
+					"You have not completed any ",
+					"You have not completed any recommendations",
+					"ico--advisor__store-front",
+					"card-reader",
+					"advisor",
+					"preview",
+					"disc",
+					"ico_dis",
+					"ico-36",
+					"view your store",
+					"margin",
+					"preview-store",
+					"site",
+					"ico-discl",
+					"ico-disc",
+					"ico-discl",
+					".view-in-store",
+					"view in your store",
+					"website",
+					"general",
+					"$data-svg-sidebar-bottom-website-bluegray",
+					"website",
+					"btn",
+					"website",
+					"sidebar-bottom-website",
+					"ico",
+					"brtn-ico",
+					"dashboard-index",
+					"view your website",
+					"checkout_next",
+					"ico-only",
+					"tooltip-container",
+					"tooltip-label",
+					"ico ico-36-svg",
+					"ico-close-circle",
+					"close",
+					"\"close",
+					"657781",
+					"image_tag",
+					"34",
+					"ico-16-svg",
+					".ico-16-svg",
+					"advisor-aban",
+					"icon",
+					"class=\"icon",
+					"box-content-spacious",
+					"class=\"icon",
+					"box-content",
+					".box-content",
+					"padding:",
+					"ol {",
+					"box-content",
+					"D3DBE2",
+					"fafcfc",
+					"tab-content-boxed",
+					"public/assets/admin-templates-bundle.js",
+					"tab-content-boxed",
+					"$default_border_radius:",
+					"border-radius:",
+					".tabs",
+					"timeline",
+					"setup_google_adwords_coupon",
+					".box",
+					".box-details",
+					"tabs",
+					"External announcement",
+					"tabs",
+					"app/assets/javascripts/ace/mode-javascript.min.js",
+					"tabs",
+					"/app/assets/batman/admin2/resources/css/dependencies/_datauri_variables.scss",
+					"tabs",
+					"bottom_signup",
+					"a {",
+					"> a",
+					"'testScrolledClass'",
+					"nav-home-scrolled",
+					"testScrolledClass",
+					"homeTopClass",
+					"nav-alt-dark",
+					"testScrolledClass"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<div class=\"row row-order-content\">\n    <div class=\"span17 order-details inner-right\">\n      <%= render 'actions', order: @order %>\n\n      <table class=\"line-items border-bottom\" cellspacing=\"0\" id=\"order-line-items\" refresh=\"order-line-items\">\n        <!-- line items -->\n        <tbody id=\"order-details-line-items\" refresh=\"order_details_line_items\">\n          <%= render partial: 'line_item', collection: @order.line_items %>\n        </tbody>\n\n        <!-- transaction summary -->\n        <tbody class=\"order-totals order-totals-summary\">\n          <%= render 'admin/shared/transactions_summary', resource: @order %>\n        </tbody>\n\n        <%= render 'transactions_details', presenter: @presenter %>\n\n      </table>\n\n      <section id=\"order_notes\" class=\"order-note ppt\" refresh=\"notes\">\n        <%= render 'notes', order: @order %>\n      </section>\n\n      <section id=\"order_tags\" class=\"order-tags ppt ssb\" refresh=\"tags\">\n        <%= render 'tags', order: @order %>\n      </section>\n\n      <section class=\"box box-details\">\n        <%= render 'history' %>\n      </section>\n    </div>\n\n    <div id=\"order-sidebar\" class=\"span7 order-sidebar\" refresh=\"order-sidebar\">",
+					"js-nav-home-scrolled",
+					"image_uri: \"online/examples",
+					"image_uri: \"online/examples/",
+					"is_series",
+					"artwork",
+					"online/example-commondeervt",
+					"example-commondeer-large",
+					"example-commondeer",
+					"image_uri: \"online/example-commondeer.jpg\"",
+					"example-commondeer-large.jpg",
+					"modalSetCount",
+					"js-active",
+					"$modalItems",
+					"prefix(",
+					"data-svg-cog-large-lightgray",
+					">\n<",
+					"eighth",
+					"eighths",
+					"seventh",
+					"sevenths",
+					"sixth",
+					"sixths",
+					"header_dropped",
+					"$header",
+					"catch_header_at",
+					"stickyNav",
+					"Business",
+					"Phone",
+					"Email",
+					"Name",
+					"",
+					"/assets/fonts",
+					"margin",
+					" ",
+					"\",\"",
+					"\n",
+					" ",
+					"\n-"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 32.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"productcoffee",
+						"app/assets/batman/admin2/models/product.js.coffee"
+					],
+					[
+						"theme_languages",
+						"app/assets/stylesheets/admin/areas/_theme_languages.scss"
+					],
+					[
+						"btn",
+						"app/assets/stylesheets/admin/modules/_btn.scss"
+					],
+					[
+						"box",
+						"app/assets/stylesheets/admin/_box.scss"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"layouthtml",
+						"app/views/layouts/admin/admin.html.erb"
+					],
+					[
+						"buttonscss",
+						"app/assets/stylesheets/admin/next/modules/_button.scss"
+					],
+					[
+						"button",
+						"app/assets/stylesheets/admin/next/modules/_button.scss"
+					],
+					[
+						"addproducterb",
+						"app/views/admin/dashboard/onboarding_tasks/_add_product.html.erb"
+					],
+					[
+						"colo",
+						"app/assets/stylesheets/admin/dependencies/_colors.scss"
+					],
+					[
+						"rowscss",
+						"app/assets/stylesheets/admin/_rows.scss"
+					],
+					[
+						"boxscss",
+						"app/assets/stylesheets/admin/_box.scss"
+					],
+					[
+						"milestone",
+						"app/models/milestone_set.rb"
+					],
+					[
+						"admin",
+						"lib/route_constraints/admin2_capture.rb"
+					],
+					[
+						"admin2",
+						"lib/route_constraints/admin2_capture.rb"
+					],
+					[
+						"datauri",
+						"app/assets/batman/admin2/resources/css/dependencies/_datauri_svg.scss"
+					],
+					[
+						"admin2capt",
+						"lib/route_constraints/admin2_capture.rb"
+					],
+					[
+						"appcontconcerabs",
+						"app/controllers/concerns/abs_of_steel.rb"
+					],
+					[
+						"glob",
+						"app/views/layouts/global.html.erb"
+					],
+					[
+						"inline_s",
+						"app/views/modules/_inline_signup.html.erb"
+					],
+					[
+						".lock",
+						"Gemfile.lock"
+					],
+					[
+						"footerscs",
+						"app/assets/stylesheets/global/_footer.scss"
+					],
+					[
+						"inline",
+						"app/assets/stylesheets/modules/_inline-form.scss"
+					],
+					[
+						"homecon",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"configenvirondev",
+						"config/environments/development.rb"
+					],
+					[
+						"global",
+						"app/views/layouts/global.html.erb"
+					],
+					[
+						"nav",
+						"app/assets/javascripts/global/nav.js"
+					],
+					[
+						"drawe",
+						"app/assets/stylesheets/global/_drawer.scss"
+					],
+					[
+						"home",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"exampl",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"icons",
+						"app/assets/stylesheets/global/_icons_data.scss"
+					],
+					[
+						"colors",
+						"app/assets/stylesheets/deprecated/_colors.scss"
+					],
+					[
+						"homecont",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"base",
+						"app/views/layouts/base_layout.html.erb"
+					],
+					[
+						"typogra",
+						"public/assets/source_maps/typography.scss"
+					],
+					[
+						"gemf",
+						"Gemfile.lock"
+					],
+					[
+						"picture",
+						"app/views/modules/_picture.html.erb"
+					],
+					[
+						"exampleerb",
+						"app/models/store_example_category.rb"
+					],
+					[
+						"onlineyml",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"layou",
+						"app/views/layouts/base_layout.html.erb"
+					],
+					[
+						"_head",
+						"app/assets/stylesheets/modules/_header.scss"
+					],
+					[
+						"header",
+						"public/assets/source_maps/_header.scss"
+					],
+					[
+						"homescs",
+						"app/assets/stylesheets/pages/homepage.scss"
+					],
+					[
+						"index",
+						"config/locales/home/index.yml"
+					],
+					[
+						"mobile",
+						"app/assets/javascripts/modules/mobile-select-nav.js"
+					],
+					[
+						"example",
+						"app/assets/javascripts/modules/example-browser.js"
+					],
+					[
+						"onljs",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"online",
+						"app/assets/javascripts/templates/modal/online_examples.jst.ejs"
+					],
+					[
+						"onlineejs",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"hoem",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"online.js",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"uprigh",
+						"app/assets/icons/upright.colors-white.svg"
+					],
+					[
+						"data",
+						"public/assets/source_maps/_icons_data.scss"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"modal",
+						"app/assets/javascripts/global/modal.js"
+					],
+					[
+						"examples.ym",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"en.yml",
+						"config/locales/en.yml"
+					],
+					[
+						"modal.sc",
+						"app/assets/stylesheets/modules/_modal.scss"
+					],
+					[
+						"vari",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"helper",
+						"app/helpers/examples_helper.rb"
+					],
+					[
+						"yml",
+						"config/locales/en.yml"
+					],
+					[
+						"help",
+						"app/helpers/examples_helper.rb"
+					],
+					[
+						"examplesgrid",
+						"app/assets/stylesheets/modules/_examples-grid.scss"
+					],
+					[
+						"nav.scss",
+						"app/assets/stylesheets/global/_nav.scss"
+					],
+					[
+						"nav.scs",
+						"public/assets/source_maps/_nav.scss"
+					],
+					[
+						"careers",
+						"app/controllers/careers_controller.rb"
+					],
+					[
+						"modal.j",
+						"app/assets/javascripts/global/modal.js"
+					],
+					[
+						"signup",
+						"app/assets/javascripts/global/signup_modal.js"
+					],
+					[
+						"carousel",
+						"app/assets/javascripts/modules/carousel.js"
+					],
+					[
+						"moda",
+						"app/assets/javascripts/modules/modal.js"
+					],
+					[
+						"onlinescss",
+						"app/assets/stylesheets/pages/online.scss"
+					],
+					[
+						"popover",
+						"app/assets/javascripts/modules/popover.js"
+					],
+					[
+						"picturef",
+						"vendor/assets/javascripts/picturefill.js"
+					],
+					[
+						"head_s",
+						"app/assets/javascripts/head_scripts.js"
+					],
+					[
+						"app",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"appli",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"demo-mo",
+						"app/views/sandbox/demo-modal.html.erb"
+					],
+					[
+						"demo_mo",
+						"app/assets/javascripts/sandbox/demo_modal.js"
+					],
+					[
+						"a11",
+						"app/assets/javascripts/global/a11y-helpers.js"
+					],
+					[
+						"appl",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"examplejs",
+						"app/assets/javascripts/modules/example-browser.js"
+					],
+					[
+						"var",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"signupmodal",
+						"app/assets/javascripts/global/signup_modal.js"
+					],
+					[
+						"grid",
+						"app/assets/stylesheets/global/_grid.scss"
+					],
+					[
+						"prepa",
+						"app/assets/javascripts/lib/jquery.preparetransition.js"
+					],
+					[
+						"modal.",
+						"app/assets/stylesheets/modules/_modal.scss"
+					],
+					[
+						"examples",
+						"app/assets/stylesheets/modules/_examples-grid.scss"
+					],
+					[
+						"mobil",
+						"app/assets/javascripts/modules/mobile-select-nav.js"
+					],
+					[
+						"prepare",
+						"app/assets/javascripts/lib/jquery.preparetransition.js"
+					],
+					[
+						"pricin",
+						"app/assets/stylesheets/pages/pricing.scss"
+					],
+					[
+						"exam",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"online.",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"mobile-se",
+						"app/assets/javascripts/modules/mobile-select-nav.js"
+					],
+					[
+						"onlin.j",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"online.j",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"exah",
+						"app/helpers/examples_helper.rb"
+					],
+					[
+						"onlin.jst",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"exbr",
+						"app/assets/javascripts/modules/example-browser.js"
+					],
+					[
+						"jstexampl",
+						"app/assets/javascripts/templates/modal/online_examples.jst.ejs"
+					],
+					[
+						"exmaple",
+						"app/views/online/partials/_example.html.erb"
+					],
+					[
+						"_exam",
+						"app/views/online/partials/_example.html.erb"
+					],
+					[
+						"onlin",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"forms",
+						"app/assets/stylesheets/global/_forms.scss"
+					],
+					[
+						"va",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"icons_dat",
+						"app/assets/stylesheets/global/_icons_data.scss"
+					],
+					[
+						"icon",
+						"app/assets/stylesheets/global/_icons.scss"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"ejs",
+						"app/assets/javascripts/templates/modal/online_examples.jst.ejs"
+					],
+					[
+						"_example",
+						"app/views/online/partials/_example.html.erb"
+					],
+					[
+						"varia",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"moderniz",
+						"vendor/assets/javascripts/modernizr.js"
+					],
+					[
+						"video",
+						"app/views/modules/_video.html.erb"
+					],
+					[
+						"homep",
+						"app/assets/stylesheets/pages/homepage.scss"
+					],
+					[
+						"homepage",
+						"app/assets/stylesheets/pages/homepage.scss"
+					],
+					[
+						"_pictu",
+						"app/views/modules/_picture.html.erb"
+					],
+					[
+						"transitio",
+						"app/assets/javascripts/lib/jquery.preparetransition.js"
+					],
+					[
+						"case_",
+						"app/views/modules/_case_studies_photos.html.erb"
+					],
+					[
+						"feature_item",
+						"app/views/modules/_feature_item.html.erb"
+					],
+					[
+						"testimonials",
+						"app/helpers/testimonials_helper.rb"
+					],
+					[
+						"templa",
+						"app/assets/javascripts/global/templates.js"
+					],
+					[
+						"gri",
+						"app/assets/stylesheets/global/_grid.scss"
+					],
+					[
+						"case",
+						"app/views/modules/_case_study.html.erb"
+					],
+					[
+						"javascripts/page",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"evniron/deve",
+						"config/environments/development.rb"
+					],
+					[
+						"dashboardcon",
+						"app/controllers/admin/dashboard_controller.rb"
+					],
+					[
+						"themesscss",
+						"app/assets/batman/admin2/resources/css/_themes.scss"
+					],
+					[
+						"mixins",
+						"app/assets/stylesheets/checkout/_partials/_mixins.scss"
+					],
+					[
+						"themescss",
+						"app/assets/batman/admin2/resources/css/live-theme-editor.css.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+				],
+				"width": 457.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 280.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1704.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"backg",
+						"background-position"
+					],
+					[
+						"no",
+						"none"
+					],
+					[
+						"defa",
+						"default_border_radius"
+					],
+					[
+						"def",
+						"default_border_radius"
+					],
+					[
+						"nav-",
+						"nav-alt-dark"
+					],
+					[
+						"navl",
+						"nav-alt-dark"
+					],
+					[
+						"ta",
+						"ta:c	text-align:center"
+					],
+					[
+						"white",
+						"white-space"
+					],
+					[
+						"heading_",
+						"heading__segment-background"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"heading",
+						"heading-grid__item"
+					],
+					[
+						"tt",
+						"tt:u	text-transform:uppercase"
+					],
+					[
+						"po",
+						"pos:a	position:absolute"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"cat",
+						"categoryUrl"
+					],
+					[
+						"cate",
+						"categorySlug"
+					],
+					[
+						"selec",
+						"selectedOptionValue"
+					],
+					[
+						"categ",
+						"categoryName"
+					],
+					[
+						"sele",
+						"selectedIndex"
+					],
+					[
+						"translat",
+						"translations_target"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"StoreExamp",
+						"StoreExampleCategory"
+					],
+					[
+						"pre",
+						"prevItem"
+					],
+					[
+						"transi",
+						"transition-out"
+					],
+					[
+						"trans",
+						"transitionended"
+					],
+					[
+						"prepare",
+						"prepareTransition"
+					],
+					[
+						"tran",
+						"transition-in"
+					],
+					[
+						"modal",
+						"modalDom"
+					],
+					[
+						"active",
+						"activeSource"
+					],
+					[
+						"curr",
+						"currentIndex"
+					],
+					[
+						"current",
+						"currentRotation"
+					],
+					[
+						"curren",
+						"currentFlipSide"
+					],
+					[
+						"select",
+						"selectContainer"
+					],
+					[
+						"html",
+						"innerHTML"
+					],
+					[
+						"sel",
+						"selectElement"
+					],
+					[
+						"exampl",
+						"exampleModals"
+					],
+					[
+						"video",
+						"video_attributes"
+					],
+					[
+						"image",
+						"image_large"
+					],
+					[
+						"example-",
+						"example-commondeer-large"
+					],
+					[
+						"ex",
+						"exampleData"
+					],
+					[
+						"onlin",
+						"onlineExampleData"
+					],
+					[
+						"moda",
+						"modalDom"
+					],
+					[
+						"store-e",
+						"store-examples-item__screenshot"
+					],
+					[
+						"acti",
+						"activeElement"
+					],
+					[
+						"key",
+						"keyCodes"
+					],
+					[
+						"prev",
+						"preventDefault"
+					],
+					[
+						"prepa",
+						"prepareTransition"
+					],
+					[
+						"dom",
+						"modalDom"
+					],
+					[
+						"mo",
+						"modalDom"
+					],
+					[
+						"close",
+						"closeBtn"
+					],
+					[
+						"Mo",
+						"ModalItems"
+					],
+					[
+						"ke",
+						"keyboardToggle"
+					],
+					[
+						"sett",
+						"settingsToggle"
+					],
+					[
+						"Store",
+						"StorefrontPanel"
+					],
+					[
+						"setup",
+						"setupViewElements"
+					],
+					[
+						"init",
+						"initPrototypeFunctionality"
+					],
+					[
+						"them",
+						"themeEditorPrototype"
+					],
+					[
+						"save",
+						"saveButton"
+					],
+					[
+						"toggle",
+						"toggleSettingsPanel"
+					],
+					[
+						"togg",
+						"toggleSettingsPanel"
+					],
+					[
+						"settin",
+						"settingsChangesMade"
+					],
+					[
+						"theme",
+						"themeSettingsChanged"
+					],
+					[
+						"con",
+						"confirmPageExitAlert"
+					],
+					[
+						"mouse",
+						"mouseOverDelay"
+					],
+					[
+						"page",
+						"pageWrapper"
+					],
+					[
+						"frames",
+						"framesLoaded"
+					],
+					[
+						"Sett",
+						"SettingsPanel"
+					],
+					[
+						"set",
+						"settingsBody"
+					],
+					[
+						"fea",
+						"featuredFonts"
+					],
+					[
+						"fon",
+						"fontsToDisplay"
+					],
+					[
+						"use",
+						"use_webfontloader"
+					],
+					[
+						"Web",
+						"WebFontConfig"
+					],
+					[
+						"api",
+						"apiUrlAttrs"
+					],
+					[
+						"font",
+						"fontList"
+					],
+					[
+						"add",
+						"addressPreview"
+					],
+					[
+						"shi",
+						"shipping_toggle"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"mob",
+						"mobile-header-height"
+					],
+					[
+						"email",
+						"emailDate"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"form",
+						"form_padding"
+					],
+					[
+						"reas",
+						"reasons__item"
+					],
+					[
+						"wind",
+						"windowHeight"
+					],
+					[
+						"inn",
+						"innerHeight"
+					],
+					[
+						"palm",
+						"palm_down"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"animation",
+						"animation-direction"
+					],
+					[
+						"nav_",
+						"nav_transition"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"bi",
+						"background-image"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"tex",
+						"text-align-last"
+					],
+					[
+						"mb",
+						"margin-bottom"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"cont",
+						"content__section"
+					],
+					[
+						"content",
+						"content__section"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"content__sec",
+						"content__section-fullwidth"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"content_",
+						"content__section-fullwidth"
+					],
+					[
+						"gra",
+						"gray_light"
+					],
+					[
+						"lap_",
+						"lap_up"
+					],
+					[
+						"plus",
+						"plus-logo"
+					],
+					[
+						"body-",
+						"body-title"
+					],
+					[
+						"bord",
+						"border-radius"
+					],
+					[
+						"up",
+						"uppercase"
+					],
+					[
+						"txt",
+						"text-align"
+					],
+					[
+						"td",
+						"td:n	text-decoration:none"
+					],
+					[
+						"tog",
+						"toggle_arrow_at"
+					],
+					[
+						"sc",
+						"scrollY"
+					],
+					[
+						"che",
+						"checkboxContainer"
+					],
+					[
+						"ema",
+						"emailRegex"
+					],
+					[
+						"validate",
+						"validateField"
+					],
+					[
+						"val",
+						"validStatus"
+					],
+					[
+						"vali",
+						"validateField"
+					],
+					[
+						"ver",
+						"vertical-align"
+					],
+					[
+						"res",
+						"resizeWindow"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"list-style",
+						"list-style-type"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/admin/embedded.html.erb",
+					"settings":
+					{
+						"buffer_size": 4309,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/models/product.js.coffee",
+					"settings":
+					{
+						"buffer_size": 7678,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/bulk_operations.coffee",
+					"settings":
+					{
+						"buffer_size": 2093,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "Searching 7991 files for \"\"Selected\"\"\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/settings/payments/custom.js.htm:\n   19      <div class=\"fr p\">\n   20        <select data-bind=\"newCustomGateway.name\">\n   21:         <option selected=\"selected\" value=\"\">Select a custom payment method</option>\n   22          <option data-foreach-gateway=\"PaymentGateway.remainingDefaultManualGateways\" data-bind=\"gateway\"></option>\n   23          <option>Custom payment method</option>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/settings/payments/paypal.js.htm:\n   52          <select\n   53            data-bind=\"paypalGateway.provider_id\" data-event-change=\"resetGatewayForm | withArguments 'paypalGateway'\">\n   54:           <option selected=\"selected\" value=\"\">Select a PayPal method</option>\n   55            <option data-foreach-provider=\"paypalProviders\" data-bind-value=\"provider.id\" data-bind=\"provider.label\"></option>\n   56          </select>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/vendor/jquery-2.0.3.js:\n 2147  		},\n 2148  \n 2149: 		\"selected\": function( elem ) {\n 2150  			// Accessing this property makes selected-by-default\n 2151  			// options in Safari work properly\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/vendor/jquery-ui-1.10.3.js:\n 5573        inst = this._getInst(target[0]);\n 5574  \n 5575:     inst[\"selected\" + (period === \"M\" ? \"Month\" : \"Year\")] =\n 5576      inst[\"draw\" + (period === \"M\" ? \"Month\" : \"Year\")] =\n 5577        parseInt(select.options[select.selectedIndex].value,10);\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/vendor/locationSelect.js:\n   50        var name = list[i].name;\n   51        if( existingVal == name && existingVal !== \"\" ){\n   52:         $select.append('<option value=\"'+name+'\" selected=\"selected\">'+name+'</option>');\n   53        } else {\n   54          $select.append('<option value=\"'+name+'\">'+name+'</option>');\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/vendor/tiny_mce/tinymce.js:\n 1908  		},\n 1909  \n 1910: 		\"selected\": function( elem ) {\n 1911  			// Accessing this property makes selected-by-default\n 1912  			// options in Safari work properly\n ....\n 5457  			maxlength: \"maxLength\",\n 5458  			readonly: \"readOnly\",\n 5459: 			selected: \"selected\",\n 5460  			value: \"value\",\n 5461  			id: \"id\",\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin/date-picker.js:\n  159        var opts = '';\n  160        for (i in this.months) {\n  161:         sel = (i == this.getSelectedDate(id).getMonth() ? 'selected=\"selected\" ' : '');\n  162          opts += '<option ' + sel + 'value=\"'+ i +'\">' + this.getMonthName(i) + '</option>';\n  163        }\n  ...\n  175        var opts = '';\n  176        for (i = min; i < max; i++) {\n  177:         sel = (i == this.getSelectedDate(id).getFullYear() ? 'selected=\"selected\" ' : '');\n  178          opts += '<option ' + sel + 'value=\"'+ i +'\">' + i + '</option>';\n  179        }\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin/lookup.js:\n  160        for (var i = 0; i < this.entryCount; i++)\n  161          this.index==i ? \n  162:           Element.addClassName(this.getEntry(i),\"selected\") : \n  163:           Element.removeClassName(this.getEntry(i),\"selected\");\n  164  \n  165        if(this.hasFocus) { \n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/products/product_options.coffee:\n  115            <optgroup label=\"Select an option\">\n  116              <% _.each(defaultOptionNames, function(defaultName) { %>\n  117:               <option <% if (defaultName == option.name) { %>selected=\"selected\"<% } %> bind-disabled=\"optionInUse('<%= defaultName %>', <%= option.position %>)\">\n  118                  <%= defaultName %>\n  119                </option>\n  ...\n  121            </optgroup>\n  122            <optgroup label=\"---\">\n  123:             <option value=\"custom\" <% if (option.isCustom) { %>selected=\"selected\"<% } %>>Custom option</option>\n  124            </optgroup>\n  125          </select>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/products/product_variant_options.coffee:\n  151            <optgroup label=\"Select an option\">\n  152              <% _.each(defaultOptionNames, function(defaultName) { %>\n  153:               <option <% if (defaultName == option.name) { %>selected=\"selected\"<% } %> bind-disabled=\"optionInUse('<%= defaultName %>', <%= option.position %>)\">\n  154                  <%= defaultName %>\n  155                </option>\n  ...\n  157            </optgroup>\n  158            <optgroup label=\"---\">\n  159:             <option value=\"custom\" <% if (option.isCustom) { %>selected=\"selected\"<% } %>>Create a new option</option>\n  160            </optgroup>\n  161          </select>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/checkout_next/vendor/jquery-1.11.js:\n 1909  		},\n 1910  \n 1911: 		\"selected\": function( elem ) {\n 1912  			// Accessing this property makes selected-by-default\n 1913  			// options in Safari work properly\n\n/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/vendor/controls.js:\n  199        for (var i = 0; i < this.entryCount; i++)\n  200          this.index==i ?\n  201:           Element.addClassName(this.getEntry(i),\"selected\") :\n  202:           Element.removeClassName(this.getEntry(i),\"selected\");\n  203        if(this.hasFocus) {\n  204          this.show();\n\n/Users/gavin/localhost/vagrant/src/shopify/app/helpers/application_helper.rb:\n  110  \n  111    def selected\n  112:     'selected=\"selected\"'\n  113    end\n  114    safe_helper :selected\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/articles/_form.html.erb:\n   50          <select name=\"<%= form.object_name %>[blog_id]\" id=\"article-blog\" class=\"full-width\" bind-event-change=\"showNewBlogName = (this.value == 'new_blog')\">\n   51            <% shop.blogs.each do |blog| %>\n   52:           <option value=\"<%= blog.id %>\" <%= blog.id == form.object.blog_id ? 'selected=\"selected\"' : '' %>><%= blog.title %></option>\n   53            <% end %>\n   54            <option disabled=\"disabled\">--------------------</option>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/checkouts/_export_checkouts_modal.erb:\n   25          <select name=\"monthly[month]\" bind=\"exportMonth\">\n   26            <% 1.upto(12) do |month| %>\n   27:             <option value=\"<%= month -%>\" <%= \"selected\" if @shop.timezone.now.month == month %> bind-disabled=\"isMonthInFuture(<%= month %>)\"><%= Date::MONTHNAMES[month] -%></option>\n   28            <% end %>\n   29          </select>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/gift_cards/_export_gift_cards_modal.html.erb:\n   27          <select name=\"monthly[month]\" bind=\"exportDates.exportMonth\">\n   28            <% 1.upto(12) do |month| %>\n   29:             <option value=\"<%= month %>\" <%= \"selected\" if @shop.timezone.now.month == month %> bind-disabled=\"exportDates.isMonthInFuture(<%= month %>)\"><%= Date::MONTHNAMES[month] -%></option>\n   30            <% end %>\n   31          </select>\n   ..\n   37          <select name=\"quarterly[quarter]\" bind=\"exportDates.exportQuarter\">\n   38            <% 1.upto(4) do |quarter| %>\n   39:             <option value=\"<%= quarter %>\" <%= \"selected\" if (@shop.timezone.now.month - 1) / 3 + 1 == quarter %> bind-disabled=\"exportDates.isQuarterInFuture(<%= quarter %>)\">Q<%= quarter %></option>\n   40            <% end %>\n   41          </select>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/products/_export_products_modal.html.erb:\n   27  \n   28      <div>\n   29:       <input id=\"export-selected-products\" type=\"radio\" name=\"export-range\" value=\"selected\" bind=\"exportRange\" bind-disabled=\"bulkOperations.noneSelected()\"/>\n   30        <label for=\"export-selected-products\" class=\"inline fw-normal gray-on-disabled\" >Export\n   31          <strong><span bind=\"bulkOperations.countSelected()\"></span> selected</strong>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/products/_form.html.erb:\n   47            <optgroup label=\"Select a type\">\n   48              <% types.each do |type| %>\n   49:               <option value=\"<%= type %>\" <%= type == form.object.product_type ? 'selected=\"selected\"' : '' %>><%= type %></option>\n   50              <% end %>\n   51            </optgroup>\n   52            <optgroup label=\"---\">\n   53:             <option value='' <%= '' == form.object.product_type ? 'selected=\"selected\"' : '' %>>Create a new type...</option>\n   54            </optgroup>\n   55          </select>\n   ..\n   68            <optgroup label=\"Select a vendor\">\n   69              <% vendors.each do |vendor| %>\n   70:               <option value=\"<%= vendor %>\" <%= vendor == form.object.vendor ? 'selected=\"selected\"' : '' %>><%= vendor %></option>\n   71              <% end %>\n   72            </optgroup>\n   73            <optgroup label=\"---\">\n   74:             <option value='' <%= '' == form.object.vendor ? 'selected=\"selected\"' : '' %>>Create a new vendor...</option>\n   75            </optgroup>\n   76          </select>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/settings/shipping/_rates.html.erb:\n   18              <td><strong bind-unsafe-html=\"formattedPrice()\"><%= money_with_currency(rate.price) %></strong></td>\n   19            </tr>\n   20:           <tr bind-show=\"selected\">\n   21              <td colspan=\"9\" class=\"p-none\">\n   22                <div class=\"table-dropdown\">\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/settings/taxes/_regions.html.erb:\n   21              <select name=\"country[provinces_attributes][<%= province.index %>][tax_type]\" id=\"\" bind=\"taxType_<%= province.object.id %>\">\n   22                <option\n   23:                 <% if province.object.tax_type == 'normal' %>selected=\"selected\"<% end %>\n   24                  value=\"normal\"\n   25                  bind=\"taxes.taxDescriptor('normal', countryTax_<%= country.id %>)\">\n   ..\n   27                </option>\n   28                <option\n   29:                 <% if province.object.tax_type == 'harmonized' %>selected=\"selected\"<% end %>\n   30                  value=\"harmonized\"\n   31                  bind=\"taxes.taxDescriptor('harmonized', countryTax_<%= country.id %>)\">\n   ..\n   33                </option>\n   34                <option\n   35:                 <% if province.object.tax_type == 'compounded' %>selected=\"selected\"<% end %>\n   36                  value=\"compounded\"\n   37                  bind=\"taxes.taxDescriptor('compounded', countryTax_<%= country.id %>)\">\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/shared/_orders_export_modal.html.erb:\n   23          <select name=\"monthly[month]\" bind=\"exportDates.exportMonth\">\n   24            <% 1.upto(12) do |month| %>\n   25:             <option value=\"<%= month -%>\" <%= \"selected\" if @shop.timezone.now.month == month %> bind-disabled=\"exportDates.isMonthInFuture(<%= month %>)\"><%= Date::MONTHNAMES[month] -%></option>\n   26            <% end %>\n   27          </select>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/shared/payments/balance_transactions/_balance_transactions_export_modal.html.erb:\n   23          <select name=\"monthly[month]\" bind=\"exportDates.exportMonth\">\n   24            <% 1.upto(12) do |month| %>\n   25:             <option value=\"<%= month -%>\" <%= \"selected\" if @shop.timezone.now.month == month %> bind-disabled=\"exportDates.isMonthInFuture(<%= month %>)\"><%= Date::MONTHNAMES[month] -%></option>\n   26            <% end %>\n   27          </select>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/shared/payments/transfers/_transfers_export_modal.html.erb:\n   23          <select name=\"monthly[month]\" bind=\"exportDates.exportMonth\">\n   24            <% 1.upto(12) do |month| %>\n   25:             <option value=\"<%= month -%>\" <%= \"selected\" if @shop.timezone.now.month == month %> bind-disabled=\"exportDates.isMonthInFuture(<%= month %>)\"><%= Date::MONTHNAMES[month] -%></option>\n   26            <% end %>\n   27          </select>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/components/modal-gift-card.html.erb:\n   19  \n   20          <ul class=\"segmented-control large\">\n   21:           <li class=\"selected\"><label><input type=\"radio\" name=\"gift_card_initial_value\" value=\"10.00\"><span>$10.00</span></label></li>\n   22            <li class=\"\"><label><input type=\"radio\" name=\"gift_card_initial_value\" value=\"25.00\"><span>$25.00</span></label></li>\n   23            <li class=\"\"><label><input type=\"radio\" name=\"gift_card_initial_value\" value=\"50.00\"><span>$50.00</span></label></li>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/components/sidebar.html.erb:\n    3      <h2 class=\"sidebar-heading\">Your store</h2>\n    4      <ol class=\"main-nav unstyled\">\n    5:       <li class=\"selected\">\n    6          <a href=\"#\" class=\"sidebar-link dashboard\"><i class=\"ico ico-16-svg ico-sidebar-home\"></i>Dashboard</a>\n    7        </li>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/components/table.html.erb:\n   31        <td>Abandoned status</td>\n   32      </tr>\n   33:     <tr class=\"selected\">\n   34        <td>Selected cell</td>\n   35        <td>Selected cell</td>\n\n/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/services/partners_area.html.erb:\n   67            <h2 class=\"sidebar-heading\">Partners Dashboard</h2>\n   68            <ol class=\"main-nav unstyled\">\n   69:             <li <% if params[:controller] =~ /payments/ %>class=\"selected\"<% end %>>\n   70                <%= link_to services_partners_payments_url, class: \"payments sidebar-link\" do %>\n   71                  <i class=\"ico ico-16-svg ico-sidebar-payments\"></i>Payments\n   72                <% end %>\n   73              </li>\n   74:             <li <% if params[:controller] =~ /affiliates/ %>class=\"selected\"<% end %>>\n   75                <%= link_to services_partners_affiliates_url, class: \"affiliates sidebar-link\" do %>\n   76                  <i class=\"ico ico-16-svg ico-sidebar-affiliates\"></i>Affiliates\n   77                <% end %>\n   78              </li>\n   79:             <li <% if params[:controller] =~ /dev_shops/ %>class=\"selected\"<% end %>>\n   80                <%= link_to services_partners_dev_shops_url, class: \"dev-shops sidebar-link\" do %>\n   81                  <i class=\"ico ico-16-svg ico-sidebar-dev-shops\"></i>Dev Shops\n   82                <% end %>\n   83              </li>\n   84:             <li <% if params[:controller] =~ /api_clients/ %>class=\"selected\"<% end %>>\n   85                <%= link_to services_partners_api_clients_url, class: \"apps-shops sidebar-link\" do %>\n   86                  <i class=\"ico ico-16-svg ico-sidebar-apps\"></i>Apps\n   87                <% end %>\n   88              </li>\n   89:             <li <% if params[:controller] =~ /themes/ %>class=\"selected\"<% end %>>\n   90                <%= link_to services_partners_themes_url, class: \"themes sidebar-link\" do %>\n   91                  <i class=\"ico ico-16-svg ico-sidebar-themes\"></i>Themes\n   92                <% end %>\n   93              </li>\n   94:             <li <% if params[:controller] =~ /account/ %>class=\"selected\"<% end %>>\n   95                <%= link_to edit_services_partners_account_url, class: \"dev-shops sidebar-link\" do %>\n   96                  <i class=\"ico ico-16-svg ico-sidebar-settings\"></i>Settings\n\n/Users/gavin/localhost/vagrant/src/shopify/db/default_asset_values/checkouts/templates/show.liquid:\n   91                    <option value=\"\">New Address&hellip;</option>\n   92                    {% for address in customer.addresses %}\n   93:                     <option value=\"{{ address.id }}\" data-properties=\"{{ address | json | escape }}\" {% if checkout.shipping_address.id == address.id %}selected=\"selected\"{% endif %}>\n   94                        {{ address.summary | truncate: 30 }}\n   95                      </option>\n\n/Users/gavin/localhost/vagrant/src/shopify/lib/api_documentation/templates/layout.erb.html:\n   47            <h3>API Format</h3>\n   48            <select name='format' onchange='location = this.options[this.selectedIndex].value;'>\n   49:             <option value=\"<%= @doc ? file_name_for(@doc, 'json') : file_name_of(@name, 'json') %>\"<%= ' selected=\"selected\"' if @format == 'json' %>>JSON</option>\n   50:             <option value=\"<%= @doc ? file_name_for(@doc, 'xml') : file_name_of(@name, 'xml') %>\"<%= ' selected=\"selected\"' if @format == 'xml' %>>XML</option>\n   51            </select>\n   52            <h3>Topics</h3>\n\n/Users/gavin/localhost/vagrant/src/shopify/public/assets/vendor-bundle.js:\n 2532  		},\n 2533  \n 2534: 		\"selected\": function( elem ) {\n 2535  			// Accessing this property makes selected-by-default\n 2536  			// options in Safari work properly\n ....\n 14787        inst = this._getInst(target[0]);\n 14788  \n 14789:     inst[\"selected\" + (period === \"M\" ? \"Month\" : \"Year\")] =\n 14790      inst[\"draw\" + (period === \"M\" ? \"Month\" : \"Year\")] =\n 14791        parseInt(select.options[select.selectedIndex].value,10);\n .....\n 18386  		},\n 18387  \n 18388: 		\"selected\": function( elem ) {\n 18389  			// Accessing this property makes selected-by-default\n 18390  			// options in Safari work properly\n .....\n 21935  			maxlength: \"maxLength\",\n 21936  			readonly: \"readOnly\",\n 21937: 			selected: \"selected\",\n 21938  			value: \"value\",\n 21939  			id: \"id\",\n .....\n 91463        var name = list[i].name;\n 91464        if( existingVal == name && existingVal !== \"\" ){\n 91465:         $select.append('<option value=\"'+name+'\" selected=\"selected\">'+name+'</option>');\n 91466        } else {\n 91467          $select.append('<option value=\"'+name+'\">'+name+'</option>');\n\n/Users/gavin/localhost/vagrant/src/shopify/public/global/controls.js:\n  194        for (var i = 0; i < this.entryCount; i++)\n  195          this.index==i ? \n  196:           Element.addClassName(this.getEntry(i),\"selected\") : \n  197:           Element.removeClassName(this.getEntry(i),\"selected\");\n  198          \n  199        if(this.hasFocus) { \n\n/Users/gavin/localhost/vagrant/src/shopify/public/global/scriptaculous/1.8.2/controls.js:\n  199        for (var i = 0; i < this.entryCount; i++)\n  200          this.index==i ?\n  201:           Element.addClassName(this.getEntry(i),\"selected\") :\n  202:           Element.removeClassName(this.getEntry(i),\"selected\");\n  203        if(this.hasFocus) {\n  204          this.show();\n\n/Users/gavin/localhost/vagrant/src/shopify/test/functional/admin/gift_cards_controller_test.rb:\n   34  \n   35      assert_response :success\n   36:     assert_select 'li[class~=\"selected\"]', 'Gift Cards'\n   37    end\n   38  \n\n/Users/gavin/localhost/vagrant/src/shopify/vendor/assets/javascripts/codemirror/addon/hint/html-hint.js:\n  215      ol: { attrs: { reversed: [\"\", \"reversed\"], start: null, type: [\"1\", \"a\", \"A\", \"i\", \"I\"] } },\n  216      optgroup: { attrs: { disabled: [\"\", \"disabled\"], label: null } },\n  217:     option: { attrs: { disabled: [\"\", \"disabled\"], label: null, selected: [\"\", \"selected\"], value: null } },\n  218      output: { attrs: { \"for\": null, form: null, name: null } },\n  219      p: s,\n\n58 matches across 34 files\n",
+					"settings":
+					{
+						"buffer_size": 19332,
+						"line_ending": "Unix",
+						"name": "Find Results",
+						"scratch": true
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/shopify/app/controllers/admin/products_controller.rb",
+					"settings":
+					{
+						"buffer_size": 12674,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/products/picker.html.erb",
+					"settings":
+					{
+						"buffer_size": 4728,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 228.0,
+				"selected_items":
+				[
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"sitemap",
+						"Snippet: handlebars template"
+					],
+					[
+						"transform",
+						"Snippet: text-transform"
+					]
+				],
+				"width": 568.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/gavin/localhost/vagrant/src/shopify/public/assets/vendor-bundle.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/public/global/controls.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/products/product.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/services/product_create_service.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/product.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/Procfile",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/pagination_restrictions.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/files/product_collections_imports.csv",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/option.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/admin/no_sidebar.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/concerns/embedded_metafields.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/helpers/admin/embedded_app_helper.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/development_support/embedded-app-example.html",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/unit/helpers/admin/embedded_app_helper_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/fraud_analysis/email_blacklist_filter.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/externals_middleware.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/equivs.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/unit/embedded_metafields_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/development_support/embedded-app-modal-example.html",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/fixtures/modules/embedded_app.html",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/embedded_app.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/unit/modules/embedded_app_test.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/embedded_app_buttons.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/unit/modules/embedded_app_buttons_test.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/views/apps/embedded_app_view.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_embedded_app.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/partner/modules/_embedded_app.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/lhm/20140721165637_pos_embedded_api_clients.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/vendor/assets/javascripts/codemirror/mode/htmlembedded.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/vendor/codemirror/mode/htmlembedded.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/remote/vcr_cassettes/remote_opensrs_domain_test/register_with_handle_save_and_bad_contact_set_does_not_raise_exception_for_uk_domain.yml",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/emails/abandoned_checkout_notification.liquid",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/concerns/embedded_product.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_btn.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/areas/_theme_languages.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_seo_search_optimization.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_content_index.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/theme_languages/_locale_row.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/unit/private_s3_bucket_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/migrate/20140603183431_update_payments_configuration_key_2362063.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/public_s3_bucket.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/private_storage_bucket.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/private_s3_bucket.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/expire_store_cache_worker.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/concerns/shopify_cache_key_data.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/subscriptions_next/_pick_period.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/lib/publishable_datepicker.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/dashboard/_datepicker.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/vendor/jquery-timepicker.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/views/shared/datepicker_view.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/subscriptions_next/pick_period.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/initializers/colorpicker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/unit/modules/single_select_resource_picker_test.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/single_select_resource_picker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/rte/_rte_picker_colors.js.htm",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/components/dropdown-color-picker.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/dashboard/dashboard_date_picker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/shared/_rte_picker_colors.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/time_picker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/date_picker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/next-javascripts/unit/date_picker_test.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin/date-picker.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/admin/product_images_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/middleware/preread_input.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/functional/admin/theme_languages_controller_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/helpers/admin/theme_languages_helper.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/admin/theme_languages_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/theme_layout_asset.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/theme_asset.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/theme.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/theme_earning.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/timeline_helper.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/script/tdd",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_google_adwords_coupon.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_fifty_ways_to_sell.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_facebook_store.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_facebook_app_connect.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_discount.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_abandoned_cart.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/tasks/browser_tests.rake",
+				"/Users/gavin/localhost/vagrant/src/shopify/borg/build",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/style.css.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/dependencies/_datauri_svg.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/orders/_dispute.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/orders/show.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/filtering/table_filter.js.htm",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_onboarding_dashboard.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/dashboard/onboarding_tasks/_add_product.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/dashboard/index.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_tabs.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/services/internal/feature_announcements/_form.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/tab.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/dependencies/_colors.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/vendor/reportify/graph.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/index.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/data/payments/balance_transaction_with_null_source.json",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/signup/marketing_assets/components/_buttons.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/lhm/20140602183039_add_billing_account_to_long_term_subscriptions.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/lhm/20140602190637_add_billing_accounts_index_to_billing_transactions.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/maintenance/maintenance/payments_update_balance_transactions_transaction_id_blank_to_null_task.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/models/bulk_tag_operation.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/lhm/20140602183100_add_billing_account_to_invoice_transactions.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/unit/liquid/filters/checkout_button_filter_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/lib/button_loading_indicator.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/components/button-reports.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/partner/modules/_next-button.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_next-button.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/components/button-segmented.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/button.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/maintenance/maintenance/backfill_uafrica_reseller_partnerships_task.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/files/bad_utf8_customer.csv",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_content_index.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_icon.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_box.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/products/_alternate_show.js.htm",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/next/modules/_table.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/products/index.html.erb",
+				"/Users/gavin/Desktop/projects/shopify.sublime-project",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/concerns/bulk_operations.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/reports/report_view.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/vendor/reportify/table.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/config/routes.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/random_open_port.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/Rakefile",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/admin/admin.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/admin/admin2.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/signup_mailer.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/shopify2_mailer.html.erb"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"",
+					"*.coffee",
+					"",
+					"app/views",
+					"",
+					"*.rb",
+					"",
+					"app/helpers",
+					"app/controllers",
+					"",
+					"app/assets",
+					"",
+					"test/javascripts/view/",
+					"/test/javascripts/view/",
+					"",
+					"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/controllers",
+					"",
+					"*.js.coffee",
+					"",
+					"*.scss",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"\"Selected\"",
+					"selectionChanged",
+					"selectionChanged()",
+					"content_class",
+					"admin/embedded",
+					"picker",
+					"locale_row",
+					"_locale_row",
+					"theme_language-actions",
+					"btn-dismiss",
+					"btn--plain",
+					"background-color",
+					"ico",
+					":hover",
+					"border: non",
+					"btn",
+					"btn-dismiss",
+					".btn",
+					"ico-close-circle",
+					"content_for",
+					"disclosure-icon-blue",
+					"box-header-action",
+					"form_for",
+					"order_tags",
+					"ox-header",
+					"address_box",
+					".box-header-action",
+					"box-header-action",
+					"Filter products",
+					"start typing to search for prod",
+					"table_filter",
+					"filter-dropdown",
+					"id",
+					"Reportify.Table",
+					"d3",
+					"advisor-completed",
+					"completed",
+					"ico",
+					"svg",
+					"themes-purchase",
+					"advisor-store-front",
+					"announcements-empty",
+					"advisor-discounts",
+					"noicon",
+					"vertical center",
+					".content-index",
+					"you have not completed",
+					"we don't have any rec",
+					"You have not completed any ",
+					"You have not completed any recommendations",
+					"ico--advisor__store-front",
+					"card-reader",
+					"advisor",
+					"preview",
+					"disc",
+					"ico_dis",
+					"ico-36",
+					"view your store",
+					"margin",
+					"preview-store",
+					"site",
+					"ico-discl",
+					"ico-disc",
+					"ico-discl",
+					".view-in-store",
+					"view in your store",
+					"website",
+					"general",
+					"$data-svg-sidebar-bottom-website-bluegray",
+					"website",
+					"btn",
+					"website",
+					"sidebar-bottom-website",
+					"ico",
+					"brtn-ico",
+					"dashboard-index",
+					"view your website",
+					"checkout_next",
+					"ico-only",
+					"tooltip-container",
+					"tooltip-label",
+					"ico ico-36-svg",
+					"ico-close-circle",
+					"close",
+					"\"close",
+					"657781",
+					"image_tag",
+					"34",
+					"ico-16-svg",
+					".ico-16-svg",
+					"advisor-aban",
+					"icon",
+					"class=\"icon",
+					"box-content-spacious",
+					"class=\"icon",
+					"box-content",
+					".box-content",
+					"padding:",
+					"ol {",
+					"box-content",
+					"D3DBE2",
+					"fafcfc",
+					"tab-content-boxed",
+					"public/assets/admin-templates-bundle.js",
+					"tab-content-boxed",
+					"$default_border_radius:",
+					"border-radius:",
+					".tabs",
+					"timeline",
+					"setup_google_adwords_coupon",
+					".box",
+					".box-details",
+					"tabs",
+					"External announcement",
+					"tabs",
+					"app/assets/javascripts/ace/mode-javascript.min.js",
+					"tabs",
+					"/app/assets/batman/admin2/resources/css/dependencies/_datauri_variables.scss",
+					"tabs",
+					"bottom_signup",
+					"a {",
+					"> a",
+					"'testScrolledClass'",
+					"nav-home-scrolled",
+					"testScrolledClass",
+					"homeTopClass",
+					"nav-alt-dark",
+					"testScrolledClass"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<div class=\"row row-order-content\">\n    <div class=\"span17 order-details inner-right\">\n      <%= render 'actions', order: @order %>\n\n      <table class=\"line-items border-bottom\" cellspacing=\"0\" id=\"order-line-items\" refresh=\"order-line-items\">\n        <!-- line items -->\n        <tbody id=\"order-details-line-items\" refresh=\"order_details_line_items\">\n          <%= render partial: 'line_item', collection: @order.line_items %>\n        </tbody>\n\n        <!-- transaction summary -->\n        <tbody class=\"order-totals order-totals-summary\">\n          <%= render 'admin/shared/transactions_summary', resource: @order %>\n        </tbody>\n\n        <%= render 'transactions_details', presenter: @presenter %>\n\n      </table>\n\n      <section id=\"order_notes\" class=\"order-note ppt\" refresh=\"notes\">\n        <%= render 'notes', order: @order %>\n      </section>\n\n      <section id=\"order_tags\" class=\"order-tags ppt ssb\" refresh=\"tags\">\n        <%= render 'tags', order: @order %>\n      </section>\n\n      <section class=\"box box-details\">\n        <%= render 'history' %>\n      </section>\n    </div>\n\n    <div id=\"order-sidebar\" class=\"span7 order-sidebar\" refresh=\"order-sidebar\">",
+					"js-nav-home-scrolled",
+					"image_uri: \"online/examples",
+					"image_uri: \"online/examples/",
+					"is_series",
+					"artwork",
+					"online/example-commondeervt",
+					"example-commondeer-large",
+					"example-commondeer",
+					"image_uri: \"online/example-commondeer.jpg\"",
+					"example-commondeer-large.jpg",
+					"modalSetCount",
+					"js-active",
+					"$modalItems",
+					"prefix(",
+					"data-svg-cog-large-lightgray",
+					">\n<",
+					"eighth",
+					"eighths",
+					"seventh",
+					"sevenths",
+					"sixth",
+					"sixths",
+					"header_dropped",
+					"$header",
+					"catch_header_at",
+					"stickyNav",
+					"Business",
+					"Phone",
+					"Email",
+					"Name",
+					"",
+					"/assets/fonts",
+					"margin",
+					" ",
+					"\",\"",
+					"\n",
+					" ",
+					"\n-"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 3,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/gavin/localhost/vagrant/src/shopify/app/views/layouts/admin/embedded.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4309,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3048,
+										3048
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 533.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/models/product.js.coffee",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7678,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1674,
+										1674
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/bulk_operations.coffee",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2093,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										964,
+										964
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Better CoffeeScript/CoffeeScript.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 19332,
+								"regions":
+								{
+									"match":
+									{
+										"flags": 112,
+										"regions":
+										[
+											[
+												263,
+												273
+											],
+											[
+												788,
+												798
+											],
+											[
+												1112,
+												1122
+											],
+											[
+												1411,
+												1421
+											],
+											[
+												1850,
+												1860
+											],
+											[
+												2100,
+												2110
+											],
+											[
+												2331,
+												2341
+											],
+											[
+												2619,
+												2629
+											],
+											[
+												2908,
+												2918
+											],
+											[
+												3249,
+												3259
+											],
+											[
+												3322,
+												3332
+											],
+											[
+												3702,
+												3712
+											],
+											[
+												4022,
+												4032
+											],
+											[
+												4450,
+												4460
+											],
+											[
+												4770,
+												4780
+											],
+											[
+												5004,
+												5014
+											],
+											[
+												5371,
+												5381
+											],
+											[
+												5443,
+												5453
+											],
+											[
+												5647,
+												5657
+											],
+											[
+												6098,
+												6108
+											],
+											[
+												6509,
+												6519
+											],
+											[
+												6979,
+												6989
+											],
+											[
+												7370,
+												7380
+											],
+											[
+												7792,
+												7802
+											],
+											[
+												8343,
+												8353
+											],
+											[
+												8565,
+												8575
+											],
+											[
+												8873,
+												8883
+											],
+											[
+												9091,
+												9101
+											],
+											[
+												9466,
+												9476
+											],
+											[
+												9924,
+												9934
+											],
+											[
+												10220,
+												10230
+											],
+											[
+												10524,
+												10534
+											],
+											[
+												10954,
+												10964
+											],
+											[
+												11473,
+												11483
+											],
+											[
+												11970,
+												11980
+											],
+											[
+												12367,
+												12377
+											],
+											[
+												12973,
+												12983
+											],
+											[
+												13298,
+												13308
+											],
+											[
+												13665,
+												13675
+											],
+											[
+												14000,
+												14010
+											],
+											[
+												14342,
+												14352
+											],
+											[
+												14682,
+												14692
+											],
+											[
+												15010,
+												15020
+											],
+											[
+												15334,
+												15344
+											],
+											[
+												15950,
+												15960
+											],
+											[
+												16429,
+												16439
+											],
+											[
+												16598,
+												16608
+											],
+											[
+												16811,
+												16821
+											],
+											[
+												17029,
+												17039
+											],
+											[
+												17256,
+												17266
+											],
+											[
+												17493,
+												17503
+											],
+											[
+												17728,
+												17738
+											],
+											[
+												18074,
+												18084
+											],
+											[
+												18147,
+												18157
+											],
+											[
+												18442,
+												18452
+											],
+											[
+												18514,
+												18524
+											],
+											[
+												18765,
+												18775
+											],
+											[
+												19186,
+												19196
+											]
+										],
+										"scope": ""
+									}
+								},
+								"selection":
+								[
+									[
+										3794,
+										3794
+									]
+								],
+								"settings":
+								{
+									"detect_indentation": false,
+									"line_numbers": false,
+									"output_tag": 1,
+									"result_base_dir": "",
+									"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+									"result_line_regex": "^ +([0-9]+):",
+									"scroll_past_end": true,
+									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 1261.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 4,
+							"file": "/Users/gavin/localhost/vagrant/src/shopify/app/controllers/admin/products_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12674,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5027,
+										5027
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 7.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/products/picker.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4728,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2130,
+										2130
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 407.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 32.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "159 240 1704 1178 0 0 2560 1418 ",
+			"project": "shopify.sublime-project",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"productcoffee",
+						"app/assets/batman/admin2/models/product.js.coffee"
+					],
+					[
+						"theme_languages",
+						"app/assets/stylesheets/admin/areas/_theme_languages.scss"
+					],
+					[
+						"btn",
+						"app/assets/stylesheets/admin/modules/_btn.scss"
+					],
+					[
+						"box",
+						"app/assets/stylesheets/admin/_box.scss"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"layouthtml",
+						"app/views/layouts/admin/admin.html.erb"
+					],
+					[
+						"buttonscss",
+						"app/assets/stylesheets/admin/next/modules/_button.scss"
+					],
+					[
+						"button",
+						"app/assets/stylesheets/admin/next/modules/_button.scss"
+					],
+					[
+						"addproducterb",
+						"app/views/admin/dashboard/onboarding_tasks/_add_product.html.erb"
+					],
+					[
+						"colo",
+						"app/assets/stylesheets/admin/dependencies/_colors.scss"
+					],
+					[
+						"rowscss",
+						"app/assets/stylesheets/admin/_rows.scss"
+					],
+					[
+						"boxscss",
+						"app/assets/stylesheets/admin/_box.scss"
+					],
+					[
+						"milestone",
+						"app/models/milestone_set.rb"
+					],
+					[
+						"admin",
+						"lib/route_constraints/admin2_capture.rb"
+					],
+					[
+						"admin2",
+						"lib/route_constraints/admin2_capture.rb"
+					],
+					[
+						"datauri",
+						"app/assets/batman/admin2/resources/css/dependencies/_datauri_svg.scss"
+					],
+					[
+						"admin2capt",
+						"lib/route_constraints/admin2_capture.rb"
+					],
+					[
+						"appcontconcerabs",
+						"app/controllers/concerns/abs_of_steel.rb"
+					],
+					[
+						"glob",
+						"app/views/layouts/global.html.erb"
+					],
+					[
+						"inline_s",
+						"app/views/modules/_inline_signup.html.erb"
+					],
+					[
+						".lock",
+						"Gemfile.lock"
+					],
+					[
+						"footerscs",
+						"app/assets/stylesheets/global/_footer.scss"
+					],
+					[
+						"inline",
+						"app/assets/stylesheets/modules/_inline-form.scss"
+					],
+					[
+						"homecon",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"configenvirondev",
+						"config/environments/development.rb"
+					],
+					[
+						"global",
+						"app/views/layouts/global.html.erb"
+					],
+					[
+						"nav",
+						"app/assets/javascripts/global/nav.js"
+					],
+					[
+						"drawe",
+						"app/assets/stylesheets/global/_drawer.scss"
+					],
+					[
+						"home",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"exampl",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"icons",
+						"app/assets/stylesheets/global/_icons_data.scss"
+					],
+					[
+						"colors",
+						"app/assets/stylesheets/deprecated/_colors.scss"
+					],
+					[
+						"homecont",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"base",
+						"app/views/layouts/base_layout.html.erb"
+					],
+					[
+						"typogra",
+						"public/assets/source_maps/typography.scss"
+					],
+					[
+						"gemf",
+						"Gemfile.lock"
+					],
+					[
+						"picture",
+						"app/views/modules/_picture.html.erb"
+					],
+					[
+						"exampleerb",
+						"app/models/store_example_category.rb"
+					],
+					[
+						"onlineyml",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"layou",
+						"app/views/layouts/base_layout.html.erb"
+					],
+					[
+						"_head",
+						"app/assets/stylesheets/modules/_header.scss"
+					],
+					[
+						"header",
+						"public/assets/source_maps/_header.scss"
+					],
+					[
+						"homescs",
+						"app/assets/stylesheets/pages/homepage.scss"
+					],
+					[
+						"index",
+						"config/locales/home/index.yml"
+					],
+					[
+						"mobile",
+						"app/assets/javascripts/modules/mobile-select-nav.js"
+					],
+					[
+						"example",
+						"app/assets/javascripts/modules/example-browser.js"
+					],
+					[
+						"onljs",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"online",
+						"app/assets/javascripts/templates/modal/online_examples.jst.ejs"
+					],
+					[
+						"onlineejs",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"hoem",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"online.js",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"uprigh",
+						"app/assets/icons/upright.colors-white.svg"
+					],
+					[
+						"data",
+						"public/assets/source_maps/_icons_data.scss"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"modal",
+						"app/assets/javascripts/global/modal.js"
+					],
+					[
+						"examples.ym",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"en.yml",
+						"config/locales/en.yml"
+					],
+					[
+						"modal.sc",
+						"app/assets/stylesheets/modules/_modal.scss"
+					],
+					[
+						"vari",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"helper",
+						"app/helpers/examples_helper.rb"
+					],
+					[
+						"yml",
+						"config/locales/en.yml"
+					],
+					[
+						"help",
+						"app/helpers/examples_helper.rb"
+					],
+					[
+						"examplesgrid",
+						"app/assets/stylesheets/modules/_examples-grid.scss"
+					],
+					[
+						"nav.scss",
+						"app/assets/stylesheets/global/_nav.scss"
+					],
+					[
+						"nav.scs",
+						"public/assets/source_maps/_nav.scss"
+					],
+					[
+						"careers",
+						"app/controllers/careers_controller.rb"
+					],
+					[
+						"modal.j",
+						"app/assets/javascripts/global/modal.js"
+					],
+					[
+						"signup",
+						"app/assets/javascripts/global/signup_modal.js"
+					],
+					[
+						"carousel",
+						"app/assets/javascripts/modules/carousel.js"
+					],
+					[
+						"moda",
+						"app/assets/javascripts/modules/modal.js"
+					],
+					[
+						"onlinescss",
+						"app/assets/stylesheets/pages/online.scss"
+					],
+					[
+						"popover",
+						"app/assets/javascripts/modules/popover.js"
+					],
+					[
+						"picturef",
+						"vendor/assets/javascripts/picturefill.js"
+					],
+					[
+						"head_s",
+						"app/assets/javascripts/head_scripts.js"
+					],
+					[
+						"app",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"appli",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"demo-mo",
+						"app/views/sandbox/demo-modal.html.erb"
+					],
+					[
+						"demo_mo",
+						"app/assets/javascripts/sandbox/demo_modal.js"
+					],
+					[
+						"a11",
+						"app/assets/javascripts/global/a11y-helpers.js"
+					],
+					[
+						"appl",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"examplejs",
+						"app/assets/javascripts/modules/example-browser.js"
+					],
+					[
+						"var",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"signupmodal",
+						"app/assets/javascripts/global/signup_modal.js"
+					],
+					[
+						"grid",
+						"app/assets/stylesheets/global/_grid.scss"
+					],
+					[
+						"prepa",
+						"app/assets/javascripts/lib/jquery.preparetransition.js"
+					],
+					[
+						"modal.",
+						"app/assets/stylesheets/modules/_modal.scss"
+					],
+					[
+						"examples",
+						"app/assets/stylesheets/modules/_examples-grid.scss"
+					],
+					[
+						"mobil",
+						"app/assets/javascripts/modules/mobile-select-nav.js"
+					],
+					[
+						"prepare",
+						"app/assets/javascripts/lib/jquery.preparetransition.js"
+					],
+					[
+						"pricin",
+						"app/assets/stylesheets/pages/pricing.scss"
+					],
+					[
+						"exam",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"online.",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"mobile-se",
+						"app/assets/javascripts/modules/mobile-select-nav.js"
+					],
+					[
+						"onlin.j",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"online.j",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"exah",
+						"app/helpers/examples_helper.rb"
+					],
+					[
+						"onlin.jst",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"exbr",
+						"app/assets/javascripts/modules/example-browser.js"
+					],
+					[
+						"jstexampl",
+						"app/assets/javascripts/templates/modal/online_examples.jst.ejs"
+					],
+					[
+						"exmaple",
+						"app/views/online/partials/_example.html.erb"
+					],
+					[
+						"_exam",
+						"app/views/online/partials/_example.html.erb"
+					],
+					[
+						"onlin",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"forms",
+						"app/assets/stylesheets/global/_forms.scss"
+					],
+					[
+						"va",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"icons_dat",
+						"app/assets/stylesheets/global/_icons_data.scss"
+					],
+					[
+						"icon",
+						"app/assets/stylesheets/global/_icons.scss"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"ejs",
+						"app/assets/javascripts/templates/modal/online_examples.jst.ejs"
+					],
+					[
+						"_example",
+						"app/views/online/partials/_example.html.erb"
+					],
+					[
+						"varia",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"moderniz",
+						"vendor/assets/javascripts/modernizr.js"
+					],
+					[
+						"video",
+						"app/views/modules/_video.html.erb"
+					],
+					[
+						"homep",
+						"app/assets/stylesheets/pages/homepage.scss"
+					],
+					[
+						"homepage",
+						"app/assets/stylesheets/pages/homepage.scss"
+					],
+					[
+						"_pictu",
+						"app/views/modules/_picture.html.erb"
+					],
+					[
+						"transitio",
+						"app/assets/javascripts/lib/jquery.preparetransition.js"
+					],
+					[
+						"case_",
+						"app/views/modules/_case_studies_photos.html.erb"
+					],
+					[
+						"feature_item",
+						"app/views/modules/_feature_item.html.erb"
+					],
+					[
+						"testimonials",
+						"app/helpers/testimonials_helper.rb"
+					],
+					[
+						"templa",
+						"app/assets/javascripts/global/templates.js"
+					],
+					[
+						"gri",
+						"app/assets/stylesheets/global/_grid.scss"
+					],
+					[
+						"case",
+						"app/views/modules/_case_study.html.erb"
+					],
+					[
+						"javascripts/page",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"evniron/deve",
+						"config/environments/development.rb"
+					],
+					[
+						"dashboardcon",
+						"app/controllers/admin/dashboard_controller.rb"
+					],
+					[
+						"themesscss",
+						"app/assets/batman/admin2/resources/css/_themes.scss"
+					],
+					[
+						"mixins",
+						"app/assets/stylesheets/checkout/_partials/_mixins.scss"
+					],
+					[
+						"themescss",
+						"app/assets/batman/admin2/resources/css/live-theme-editor.css.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+				],
+				"width": 457.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 280.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 256,
+			"workspace_name": "/Users/gavin/Desktop/projects/shopify.sublime-workspace"
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"backg",
+						"background-position"
+					],
+					[
+						"no",
+						"none"
+					],
+					[
+						"defa",
+						"default_border_radius"
+					],
+					[
+						"def",
+						"default_border_radius"
+					],
+					[
+						"nav-",
+						"nav-alt-dark"
+					],
+					[
+						"navl",
+						"nav-alt-dark"
+					],
+					[
+						"ta",
+						"ta:c	text-align:center"
+					],
+					[
+						"white",
+						"white-space"
+					],
+					[
+						"heading_",
+						"heading__segment-background"
+					],
+					[
+						"over",
+						"overflow"
+					],
+					[
+						"heading",
+						"heading-grid__item"
+					],
+					[
+						"tt",
+						"tt:u	text-transform:uppercase"
+					],
+					[
+						"po",
+						"pos:a	position:absolute"
+					],
+					[
+						"pos",
+						"position"
+					],
+					[
+						"ab",
+						"absolute"
+					],
+					[
+						"cat",
+						"categoryUrl"
+					],
+					[
+						"cate",
+						"categorySlug"
+					],
+					[
+						"selec",
+						"selectedOptionValue"
+					],
+					[
+						"categ",
+						"categoryName"
+					],
+					[
+						"sele",
+						"selectedIndex"
+					],
+					[
+						"translat",
+						"translations_target"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"StoreExamp",
+						"StoreExampleCategory"
+					],
+					[
+						"pre",
+						"prevItem"
+					],
+					[
+						"transi",
+						"transition-out"
+					],
+					[
+						"trans",
+						"transitionended"
+					],
+					[
+						"prepare",
+						"prepareTransition"
+					],
+					[
+						"tran",
+						"transition-in"
+					],
+					[
+						"modal",
+						"modalDom"
+					],
+					[
+						"active",
+						"activeSource"
+					],
+					[
+						"curr",
+						"currentIndex"
+					],
+					[
+						"current",
+						"currentRotation"
+					],
+					[
+						"curren",
+						"currentFlipSide"
+					],
+					[
+						"select",
+						"selectContainer"
+					],
+					[
+						"html",
+						"innerHTML"
+					],
+					[
+						"sel",
+						"selectElement"
+					],
+					[
+						"exampl",
+						"exampleModals"
+					],
+					[
+						"video",
+						"video_attributes"
+					],
+					[
+						"image",
+						"image_large"
+					],
+					[
+						"example-",
+						"example-commondeer-large"
+					],
+					[
+						"ex",
+						"exampleData"
+					],
+					[
+						"onlin",
+						"onlineExampleData"
+					],
+					[
+						"moda",
+						"modalDom"
+					],
+					[
+						"store-e",
+						"store-examples-item__screenshot"
+					],
+					[
+						"acti",
+						"activeElement"
+					],
+					[
+						"key",
+						"keyCodes"
+					],
+					[
+						"prev",
+						"preventDefault"
+					],
+					[
+						"prepa",
+						"prepareTransition"
+					],
+					[
+						"dom",
+						"modalDom"
+					],
+					[
+						"mo",
+						"modalDom"
+					],
+					[
+						"close",
+						"closeBtn"
+					],
+					[
+						"Mo",
+						"ModalItems"
+					],
+					[
+						"ke",
+						"keyboardToggle"
+					],
+					[
+						"sett",
+						"settingsToggle"
+					],
+					[
+						"Store",
+						"StorefrontPanel"
+					],
+					[
+						"setup",
+						"setupViewElements"
+					],
+					[
+						"init",
+						"initPrototypeFunctionality"
+					],
+					[
+						"them",
+						"themeEditorPrototype"
+					],
+					[
+						"save",
+						"saveButton"
+					],
+					[
+						"toggle",
+						"toggleSettingsPanel"
+					],
+					[
+						"togg",
+						"toggleSettingsPanel"
+					],
+					[
+						"settin",
+						"settingsChangesMade"
+					],
+					[
+						"theme",
+						"themeSettingsChanged"
+					],
+					[
+						"con",
+						"confirmPageExitAlert"
+					],
+					[
+						"mouse",
+						"mouseOverDelay"
+					],
+					[
+						"page",
+						"pageWrapper"
+					],
+					[
+						"frames",
+						"framesLoaded"
+					],
+					[
+						"Sett",
+						"SettingsPanel"
+					],
+					[
+						"set",
+						"settingsBody"
+					],
+					[
+						"fea",
+						"featuredFonts"
+					],
+					[
+						"fon",
+						"fontsToDisplay"
+					],
+					[
+						"use",
+						"use_webfontloader"
+					],
+					[
+						"Web",
+						"WebFontConfig"
+					],
+					[
+						"api",
+						"apiUrlAttrs"
+					],
+					[
+						"font",
+						"fontList"
+					],
+					[
+						"add",
+						"addressPreview"
+					],
+					[
+						"shi",
+						"shipping_toggle"
+					],
+					[
+						"get",
+						"getElementById"
+					],
+					[
+						"mob",
+						"mobile-header-height"
+					],
+					[
+						"email",
+						"emailDate"
+					],
+					[
+						"pro",
+						"prototype"
+					],
+					[
+						"form",
+						"form_padding"
+					],
+					[
+						"reas",
+						"reasons__item"
+					],
+					[
+						"wind",
+						"windowHeight"
+					],
+					[
+						"inn",
+						"innerHeight"
+					],
+					[
+						"palm",
+						"palm_down"
+					],
+					[
+						"margin",
+						"margin-top"
+					],
+					[
+						"animation",
+						"animation-direction"
+					],
+					[
+						"nav_",
+						"nav_transition"
+					],
+					[
+						"backgr",
+						"background-color"
+					],
+					[
+						"bi",
+						"background-image"
+					],
+					[
+						"back",
+						"background-image"
+					],
+					[
+						"tex",
+						"text-align-last"
+					],
+					[
+						"mb",
+						"margin-bottom"
+					],
+					[
+						"border",
+						"border-radius"
+					],
+					[
+						"cont",
+						"content__section"
+					],
+					[
+						"content",
+						"content__section"
+					],
+					[
+						"te",
+						"text-align"
+					],
+					[
+						"content__sec",
+						"content__section-fullwidth"
+					],
+					[
+						"inline",
+						"inline-block"
+					],
+					[
+						"content_",
+						"content__section-fullwidth"
+					],
+					[
+						"gra",
+						"gray_light"
+					],
+					[
+						"lap_",
+						"lap_up"
+					],
+					[
+						"plus",
+						"plus-logo"
+					],
+					[
+						"body-",
+						"body-title"
+					],
+					[
+						"bord",
+						"border-radius"
+					],
+					[
+						"up",
+						"uppercase"
+					],
+					[
+						"txt",
+						"text-align"
+					],
+					[
+						"td",
+						"td:n	text-decoration:none"
+					],
+					[
+						"tog",
+						"toggle_arrow_at"
+					],
+					[
+						"sc",
+						"scrollY"
+					],
+					[
+						"che",
+						"checkboxContainer"
+					],
+					[
+						"ema",
+						"emailRegex"
+					],
+					[
+						"validate",
+						"validateField"
+					],
+					[
+						"val",
+						"validStatus"
+					],
+					[
+						"vali",
+						"validateField"
+					],
+					[
+						"ver",
+						"vertical-align"
+					],
+					[
+						"res",
+						"resizeWindow"
+					],
+					[
+						"inlin",
+						"inline-block"
+					],
+					[
+						"list-style",
+						"list-style-type"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/assets-update.css.scss",
+					"settings":
+					{
+						"buffer_size": 3359,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/application.css.scss",
+					"settings":
+					{
+						"buffer_size": 571,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/posts/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 2642,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/assets-overrides.css.scss",
+					"settings":
+					{
+						"buffer_size": 31,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/facebook_auths/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 2272,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/settings/show.html.erb",
+					"settings":
+					{
+						"buffer_size": 2415,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "* {\n  @include box-sizing( border-box );\n}\n\nbody {\n  font-size: 14px;\n  line-height: 20px;\n  -webkit-font-smoothing: antialiased;\n}\n\n/*============================================================================\n  Headings\n==============================================================================*/\nh1 {\n  font-size: 32px;\n  font-weight: 300;\n  letter-spacing: 0.045em;\n}\n\nh2 {\n  font-size: 18px;\n}\n\n#content {\n  background-color: #f2f4f5;\n}\n\n.section > .section-summary {\n  padding-right: 100px;\n}\n\n.page-heading {\n\n  h1 {\n    margin-bottom: 0.5em;\n  }\n\n  .btn {\n    color: #4761a2;\n    margin: 60px 0 0;\n  }\n}\n\n\n/*============================================================================\n  FB Page Card\n==============================================================================*/\n.fbapp-page-card {\n  height: 60px;\n  padding-left: 80px;\n  position: relative;\n}\n\n.fbapp-page-card__avatar {\n  left: 0;\n  margin: 0;\n  position: absolute;\n  top: 0;\n}\n\n.fbapp-page-card__content {\n  line-height: 1.5em;\n  position: relative;\n  top: 50%;\n  @include transform( translateY(-50%) );\n\n  > span {\n    display: block;\n  }\n}\n\n.fbapp-page-card__page-name {\n  font-size: 18px;\n}\n.fbapp-page-card__user-name {\n  font-size: 15px;\n}\n",
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/modules/_global.css.scss",
+					"file_size": 1058,
+					"file_write_time": 130522651067309378,
+					"settings":
+					{
+						"buffer_size": 1229,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_btn.scss",
+					"settings":
+					{
+						"buffer_size": 9899,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/products/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 470,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/modules/_onboarding.css.scss",
+					"settings":
+					{
+						"buffer_size": 515,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/controllers/facebook_auths_controller.rb",
+					"settings":
+					{
+						"buffer_size": 343,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 250.0,
+				"selected_items":
+				[
+					[
+						"long",
+						"Snippet: comment-css-long"
+					],
+					[
+						"inden",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"commen",
+						"Snippet: comment-css-long"
+					],
+					[
+						"center",
+						"Snippet: css-vertical-center"
+					],
+					[
+						"css ",
+						"Snippet: comment-css-long"
+					],
+					[
+						"css",
+						"Snippet: comment-css-long"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"jsh",
+						"JSHint"
+					],
+					[
+						"jshin",
+						"JSHint"
+					],
+					[
+						"list pa",
+						"Package Control: List Packages"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						"package",
+						"Package Control: List Packages"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"pack",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: List Packages"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"sass",
+						"SassBeautify"
+					],
+					[
+						"sitemap",
+						"Snippet: handlebars template"
+					],
+					[
+						"transform",
+						"Snippet: text-transform"
+					]
+				],
+				"width": 572.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+					"import urllib2,os; pf='Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler( ))); open( os.path.join( ipp, pf), 'wb' ).write( urllib2.urlopen( 'http://sublime.wbond.net/' +pf.replace( ' ','%20' )).read()); print( 'Please restart Sublime Text to finish installation')"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/modules/_onboarding_dashboard.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/config/initializers/load_libs.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/test/models/fb/business_manager_test.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/bin/bundle",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/posts/new.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/config/routes.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/pages/index.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/helpers/shopify_api_helper.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/facebook_auths/new.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/config/newrelic.yml",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/models/fb/api_client.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/posts/index.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/Procfile",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/products/show.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/layouts/application.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/controllers/application_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/test/controllers/settings_controller_test.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/controllers/sessions_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/modules/_facebook-previews.css.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/products/_filters_temp.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/controllers/facebook_auths_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/controllers/products_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/modules/_global.css.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_box.scss",
+				"/Users/gavin/Desktop/projects/facebook-commerce-app.sublime-project",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/test/support/fixtures.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_layout.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/Guardfile",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/areas/_gift_cards.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_gravatar.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/Gemfile.lock",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/tmp/cache/assets/development/sass/97ad44661c6a7f0bdb31e45ed0a76a95e6358dce/_grid-width.scssc",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/tmp/cache/assets/development/sass/97ad44661c6a7f0bdb31e45ed0a76a95e6358dce/_golden-ratio.scssc",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/tmp/cache/assets/development/sass/97ad44661c6a7f0bdb31e45ed0a76a95e6358dce/_flex-grid.scssc",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_tables.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/modules/_table.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/application.css.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/controllers/settings_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/settings/show.html.erb",
+				"/Users/gavin/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/Gemfile",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/script/test",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/tmp/cache/assets/development/sass/b05816b001d706258a05815da9737e2f04c0ccfb/_blogs.scssc",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/circle.yml",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/config/initializers/session_store.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/db/migrate/20140729193606_create_shops.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/config/initializers/mime_types.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/config/environments/development.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/config/initializers/omniauth.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/config.ru",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_base.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/app-assets/_head.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/home/index.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/controllers/home_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/application.css",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/posts/show.html.erb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/controllers/posts_controller.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app.css.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/Rakefile",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/_install.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/dependencies/_functions.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_flags.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_section.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_saved_search.scss",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/config/initializers/shopify_api_retry.rb",
+				"/Users/gavin/localhost/vagrant/src/facebook-commerce/shipit.yml",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/feature_announcement.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/feature.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/file_export.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/borg/finalize",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/images.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/internal_note.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/dependencies/_mixins.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/checkout/_partials/_mixins.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/milestone_set.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_facebook_store.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_google_adwords_coupon.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_seo_search_optimization.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_abandoned_cart.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/advice_cards/_setup_discount.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_btn.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/areas/_products.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/modules/_onboarding_dashboard.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/cart_controller.rb",
+				"/Users/gavin/Library/Application Support/Sublime Text 3/Packages/User/GutterColor.sublime-settings",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/nav/bottom.js.htm",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_icon.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_content_index.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/dependencies/_datauri_svg.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/feature_announcements/index.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/themes/_published_theme.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/next/modules/_button.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/modules/embedded_app_buttons.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/javascripts/unit/admin/browser_utils_test.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/files/bad_utf8_customer.csv",
+				"/Users/gavin/localhost/vagrant/src/shopify/script/bootstrap",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/javascripts/unit/admin/button_loading_indicator_test.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/liquid/tags/radio_button_tag.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/liquid/filters/checkout_button_filter.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/lib/button_loading_indicator.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/button.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/unit/milestones/onboarding_add_product_test.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/test/integration/storefront_externals_test/add_product_variant.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/maintenance/maintenance/add_plus_reports_permission_to_employee_task.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/liquid/drops/applied_discount_drop.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/bin/assets_deploy",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/application.js",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/navigation/_footer.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/dashboard/onboarding_tasks/_edit_theme_completed.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/dashboard/onboarding_tasks/_add_product.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/route_constraints/admin2_capture.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/controllers/settings/settings_area_controller.js.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/next/base/_colors.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/models/collection_link.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/creates_orders.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/Capfile",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/dependencies/_colors.scss",
+				"/Users/gavin/Library/Application Support/Sublime Text 3/Packages/Gutter Color/GutterColor.sublime-settings",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/styleguide/colors.html.erb",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/javascripts/admin_next/initializers/colorpicker.coffee",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/views/admin/dashboard/_dashboard_page.html.erb",
+				"/Users/gavin/Desktop/projects/shopify.sublime-project",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/stylesheets/admin/_rows.scss",
+				"/Users/gavin/localhost/vagrant/src/shopify/db/maintenance/maintenance/remove_abandoned_orders_with_checkouts_task.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/lib/random_open_port.rb",
+				"/Users/gavin/localhost/vagrant/src/shopify/Rakefile",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/html/announcements/full_announcement_pages/86.js.htm",
+				"/Users/gavin/localhost/vagrant/src/shopify/app/controllers/concerns/bulk_operations.rb"
+			],
+			"find":
+			{
+				"height": 36.0
+			},
+			"find_in_files":
+			{
+				"height": 95.0,
+				"where_history":
+				[
+					"",
+					"app/views",
+					"",
+					"*.rb",
+					"",
+					"app/helpers",
+					"app/controllers",
+					"",
+					"app/assets",
+					"",
+					"test/javascripts/view/",
+					"/test/javascripts/view/",
+					"",
+					"/Users/gavin/localhost/vagrant/src/shopify/app/assets/batman/admin2/controllers",
+					"",
+					"*.js.coffee",
+					"",
+					"*.scss",
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"smoothing",
+					"f2f4f5",
+					"shopify_api_js",
+					"content_for",
+					"&",
+					"span18",
+					"span6",
+					"float: right",
+					"margin-",
+					".span1",
+					"</td>",
+					"span16",
+					"span8",
+					"render",
+					"btn",
+					"div",
+					"box-header-title",
+					"box-header-action",
+					"p\"",
+					"<%= ",
+					"<% ",
+					"\">",
+					"filter-dropdown",
+					"td",
+					"span",
+					"css",
+					"new_product_path",
+					"<%\n  =end %>",
+					"<%\n  =begin %>",
+					"facebook-app-logo",
+					"Reportify.Table",
+					"d3",
+					"advisor-completed",
+					"completed",
+					"ico",
+					"svg",
+					"themes-purchase",
+					"advisor-store-front",
+					"announcements-empty",
+					"advisor-discounts",
+					"noicon",
+					"vertical center",
+					".content-index",
+					"you have not completed",
+					"we don't have any rec",
+					"You have not completed any ",
+					"You have not completed any recommendations",
+					"ico--advisor__store-front",
+					"card-reader",
+					"advisor",
+					"preview",
+					"disc",
+					"ico_dis",
+					"ico-36",
+					"view your store",
+					"margin",
+					"preview-store",
+					"site",
+					"ico-discl",
+					"ico-disc",
+					"ico-discl",
+					".view-in-store",
+					"view in your store",
+					"website",
+					"general",
+					"$data-svg-sidebar-bottom-website-bluegray",
+					"website",
+					"btn",
+					"website",
+					"sidebar-bottom-website",
+					"ico",
+					"brtn-ico",
+					"dashboard-index",
+					"view your website",
+					"checkout_next",
+					"ico-only",
+					"tooltip-container",
+					"tooltip-label",
+					"ico ico-36-svg",
+					"ico-close-circle",
+					"close",
+					"\"close",
+					"657781",
+					"image_tag",
+					"34",
+					"ico-16-svg",
+					".ico-16-svg",
+					"advisor-aban",
+					"icon",
+					"class=\"icon",
+					"box-content-spacious",
+					"class=\"icon",
+					"box-content",
+					".box-content",
+					"padding:",
+					"ol {",
+					"box-content",
+					"D3DBE2",
+					"fafcfc",
+					"tab-content-boxed",
+					"public/assets/admin-templates-bundle.js",
+					"tab-content-boxed",
+					"$default_border_radius:",
+					"border-radius:",
+					".tabs",
+					"timeline",
+					"setup_google_adwords_coupon",
+					".box",
+					".box-details",
+					"tabs",
+					"External announcement",
+					"tabs",
+					"app/assets/javascripts/ace/mode-javascript.min.js",
+					"tabs",
+					"/app/assets/batman/admin2/resources/css/dependencies/_datauri_variables.scss",
+					"tabs",
+					"bottom_signup",
+					"a {",
+					"> a",
+					"'testScrolledClass'",
+					"nav-home-scrolled",
+					"testScrolledClass",
+					"homeTopClass",
+					"nav-alt-dark",
+					"testScrolledClass",
+					"nav-alt-dark",
+					"black",
+					"js-nav-top"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"<%#= ",
+					"<%# ",
+					"<#% ",
+					"js-nav-home-scrolled",
+					"image_uri: \"online/examples",
+					"image_uri: \"online/examples/",
+					"is_series",
+					"artwork",
+					"online/example-commondeervt",
+					"example-commondeer-large",
+					"example-commondeer",
+					"image_uri: \"online/example-commondeer.jpg\"",
+					"example-commondeer-large.jpg",
+					"modalSetCount",
+					"js-active",
+					"$modalItems",
+					"prefix(",
+					"data-svg-cog-large-lightgray",
+					">\n<",
+					"eighth",
+					"eighths",
+					"seventh",
+					"sevenths",
+					"sixth",
+					"sixths",
+					"header_dropped",
+					"$header",
+					"catch_header_at",
+					"stickyNav",
+					"Business",
+					"Phone",
+					"Email",
+					"Name",
+					"",
+					"/assets/fonts",
+					"margin",
+					" ",
+					"\",\"",
+					"\n",
+					" ",
+					"\n-"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 4,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/assets-update.css.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3359,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										299,
+										299
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/application.css.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 571,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										506,
+										506
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/posts/index.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2642,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										494,
+										494
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 100.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/assets-overrides.css.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 31,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										31,
+										31
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/facebook_auths/new.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2272,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										409,
+										789
+									]
+								],
+								"settings":
+								{
+									"is_xml": false,
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 5,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/settings/show.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2415,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										87
+									]
+								],
+								"settings":
+								{
+									"is_xml": false,
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/modules/_global.css.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1229,
+								"regions":
+								{
+									"gutter_color_105":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_107":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_109":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_123":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												446,
+												446
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_154":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_163":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_166":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												446,
+												446
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_189":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												446,
+												446
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_191":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												446,
+												446
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_199":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_229":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_236":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												446,
+												446
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_245":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_246":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_281":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												446,
+												446
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_302":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												569,
+												588
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_311":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												446,
+												446
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_327":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												446,
+												446
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_330":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												569,
+												588
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_360":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												569,
+												588
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_399":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												569,
+												588
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_408":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_416":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_434":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												569,
+												588
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_464":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												569,
+												588
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_480":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												569,
+												588
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_561":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												569,
+												588
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_569":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												569,
+												588
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_84":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												416,
+												444
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_87":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f2f4f5.png",
+										"regions":
+										[
+											[
+												446,
+												446
+											]
+										],
+										"scope": "gutter_color"
+									}
+								},
+								"selection":
+								[
+									[
+										222,
+										222
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/app-assets/lib/admin2/_btn.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9899,
+								"regions":
+								{
+									"gutter_color_1126":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#ba4747.png",
+										"regions":
+										[
+											[
+												1126,
+												1157
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1158":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#439dd0.png",
+										"regions":
+										[
+											[
+												1158,
+												1189
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1190":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#5b8d00.png",
+										"regions":
+										[
+											[
+												1190,
+												1221
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1222":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#7c00b6.png",
+										"regions":
+										[
+											[
+												1222,
+												1253
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1254":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#45A58D.png",
+										"regions":
+										[
+											[
+												1254,
+												1285
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1286":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#F76D08.png",
+										"regions":
+										[
+											[
+												1286,
+												1317
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1318":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#3084CA.png",
+										"regions":
+										[
+											[
+												1318,
+												1349
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1350":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#3A9EF0.png",
+										"regions":
+										[
+											[
+												1350,
+												1381
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1687":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f0f6fa.png",
+										"regions":
+										[
+											[
+												1687,
+												1745
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1746":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f5f9ed.png",
+										"regions":
+										[
+											[
+												1746,
+												1806
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1807":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#f4ebf8.png",
+										"regions":
+										[
+											[
+												1807,
+												1867
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1868":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#F2FFFC.png",
+										"regions":
+										[
+											[
+												1868,
+												1925
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_1926":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#FFF7F0.png",
+										"regions":
+										[
+											[
+												1926,
+												1985
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_2662":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/rgb(0, 0, 0).png",
+										"regions":
+										[
+											[
+												2662,
+												2724
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_4091":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/rgb(0, 0, 0).png",
+										"regions":
+										[
+											[
+												4091,
+												4137
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_4639":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/rgb(0, 0, 0).png",
+										"regions":
+										[
+											[
+												4639,
+												4699
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_4755":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/rgb(0,0,0).png",
+										"regions":
+										[
+											[
+												4755,
+												4821
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_4889":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#999.png",
+										"regions":
+										[
+											[
+												4889,
+												4903
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_5157":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#999.png",
+										"regions":
+										[
+											[
+												5157,
+												5173
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_5794":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/rgb(0, 0, 0).png",
+										"regions":
+										[
+											[
+												5794,
+												5852
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_6926":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#2ba9e1.png",
+										"regions":
+										[
+											[
+												6926,
+												6950
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_6951":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#1776a0.png",
+										"regions":
+										[
+											[
+												6951,
+												6981
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_7117":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#6883af.png",
+										"regions":
+										[
+											[
+												7117,
+												7141
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_7142":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4a5e7d.png",
+										"regions":
+										[
+											[
+												7142,
+												7172
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_7405":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/rgb(0, 0, 0).png",
+										"regions":
+										[
+											[
+												7405,
+												7463
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_7510":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/rgb(255, 255, 255).png",
+										"regions":
+										[
+											[
+												7510,
+												7560
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_7987":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#3A9EF0.png",
+										"regions":
+										[
+											[
+												7987,
+												8006
+											]
+										],
+										"scope": "gutter_color"
+									}
+								},
+								"selection":
+								[
+									[
+										5075,
+										5075
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2653.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/views/products/index.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 470,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										470,
+										470
+									]
+								],
+								"settings":
+								{
+									"is_xml": false,
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/assets/stylesheets/modules/_onboarding.css.scss",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 515,
+								"regions":
+								{
+									"gutter_color_116":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												122,
+												144
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_122":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												122,
+												144
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_139":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												145,
+												159
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_145":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												145,
+												159
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_194":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												338,
+												357
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_202":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#ccd2d7.png",
+										"regions":
+										[
+											[
+												358,
+												386
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_21":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												122,
+												144
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_212":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												338,
+												357
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_262":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												262,
+												300
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_27":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												122,
+												144
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_283":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												338,
+												357
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_289":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												338,
+												357
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_291":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												338,
+												357
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_309":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#ccd2d7.png",
+										"regions":
+										[
+											[
+												358,
+												386
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_311":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#ccd2d7.png",
+										"regions":
+										[
+											[
+												358,
+												386
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_312":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												338,
+												357
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_322":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#ccd2d7.png",
+										"regions":
+										[
+											[
+												358,
+												386
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_332":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												338,
+												357
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_336":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												338,
+												357
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_338":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												338,
+												357
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_352":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#ccd2d7.png",
+										"regions":
+										[
+											[
+												358,
+												386
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_356":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#ccd2d7.png",
+										"regions":
+										[
+											[
+												358,
+												386
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_358":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#ccd2d7.png",
+										"regions":
+										[
+											[
+												358,
+												386
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_44":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												145,
+												159
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_45":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#4761a2.png",
+										"regions":
+										[
+											[
+												122,
+												144
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_50":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												145,
+												159
+											]
+										],
+										"scope": "gutter_color"
+									},
+									"gutter_color_68":
+									{
+										"flags": 144,
+										"icon": "Cache/GutterColor/#fff.png",
+										"regions":
+										[
+											[
+												145,
+												159
+											]
+										],
+										"scope": "gutter_color"
+									}
+								},
+								"selection":
+								[
+									[
+										296,
+										296
+									]
+								],
+								"settings":
+								{
+									"open_with_edit": true,
+									"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/Users/gavin/localhost/vagrant/src/facebook-commerce/app/controllers/facebook_auths_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 343,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 32.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.5,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"position": "852 1 1704 1417 0 0 2560 1418 ",
+			"project": "facebook-commerce-app.sublime-project",
+			"replace":
+			{
+				"height": 68.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"btn",
+						"app/assets/stylesheets/app-assets/lib/admin2/_btn.scss"
+					],
+					[
+						"new",
+						"app/views/facebook_auths/new.html.erb"
+					],
+					[
+						"route",
+						"config/routes.rb"
+					],
+					[
+						"face",
+						"app/controllers/facebook_auths_controller.rb"
+					],
+					[
+						"table",
+						"app/assets/stylesheets/app-assets/lib/admin2/_tables.scss"
+					],
+					[
+						"_box",
+						"app/assets/stylesheets/app-assets/lib/admin2/_box.scss"
+					],
+					[
+						"buttonscss",
+						"app/assets/stylesheets/admin/next/modules/_button.scss"
+					],
+					[
+						"button",
+						"app/assets/stylesheets/admin/next/modules/_button.scss"
+					],
+					[
+						"addproducterb",
+						"app/views/admin/dashboard/onboarding_tasks/_add_product.html.erb"
+					],
+					[
+						"colo",
+						"app/assets/stylesheets/admin/dependencies/_colors.scss"
+					],
+					[
+						"rowscss",
+						"app/assets/stylesheets/admin/_rows.scss"
+					],
+					[
+						"box",
+						"app/assets/stylesheets/admin/_box.scss"
+					],
+					[
+						"boxscss",
+						"app/assets/stylesheets/admin/_box.scss"
+					],
+					[
+						"milestone",
+						"app/models/milestone_set.rb"
+					],
+					[
+						"admin",
+						"lib/route_constraints/admin2_capture.rb"
+					],
+					[
+						"admin2",
+						"lib/route_constraints/admin2_capture.rb"
+					],
+					[
+						"datauri",
+						"app/assets/batman/admin2/resources/css/dependencies/_datauri_svg.scss"
+					],
+					[
+						"admin2capt",
+						"lib/route_constraints/admin2_capture.rb"
+					],
+					[
+						"appcontconcerabs",
+						"app/controllers/concerns/abs_of_steel.rb"
+					],
+					[
+						"glob",
+						"app/views/layouts/global.html.erb"
+					],
+					[
+						"inline_s",
+						"app/views/modules/_inline_signup.html.erb"
+					],
+					[
+						".lock",
+						"Gemfile.lock"
+					],
+					[
+						"footerscs",
+						"app/assets/stylesheets/global/_footer.scss"
+					],
+					[
+						"inline",
+						"app/assets/stylesheets/modules/_inline-form.scss"
+					],
+					[
+						"homecon",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"configenvirondev",
+						"config/environments/development.rb"
+					],
+					[
+						"global",
+						"app/views/layouts/global.html.erb"
+					],
+					[
+						"nav",
+						"app/assets/javascripts/global/nav.js"
+					],
+					[
+						"drawe",
+						"app/assets/stylesheets/global/_drawer.scss"
+					],
+					[
+						"home",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"exampl",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"icons",
+						"app/assets/stylesheets/global/_icons_data.scss"
+					],
+					[
+						"colors",
+						"app/assets/stylesheets/deprecated/_colors.scss"
+					],
+					[
+						"homecont",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"base",
+						"app/views/layouts/base_layout.html.erb"
+					],
+					[
+						"typogra",
+						"public/assets/source_maps/typography.scss"
+					],
+					[
+						"gemf",
+						"Gemfile.lock"
+					],
+					[
+						"picture",
+						"app/views/modules/_picture.html.erb"
+					],
+					[
+						"exampleerb",
+						"app/models/store_example_category.rb"
+					],
+					[
+						"onlineyml",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"layou",
+						"app/views/layouts/base_layout.html.erb"
+					],
+					[
+						"_head",
+						"app/assets/stylesheets/modules/_header.scss"
+					],
+					[
+						"header",
+						"public/assets/source_maps/_header.scss"
+					],
+					[
+						"homescs",
+						"app/assets/stylesheets/pages/homepage.scss"
+					],
+					[
+						"index",
+						"config/locales/home/index.yml"
+					],
+					[
+						"mobile",
+						"app/assets/javascripts/modules/mobile-select-nav.js"
+					],
+					[
+						"example",
+						"app/assets/javascripts/modules/example-browser.js"
+					],
+					[
+						"onljs",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"online",
+						"app/assets/javascripts/templates/modal/online_examples.jst.ejs"
+					],
+					[
+						"onlineejs",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"hoem",
+						"app/controllers/home_controller.rb"
+					],
+					[
+						"online.js",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"uprigh",
+						"app/assets/icons/upright.colors-white.svg"
+					],
+					[
+						"data",
+						"public/assets/source_maps/_icons_data.scss"
+					],
+					[
+						"en",
+						"config/locales/en.yml"
+					],
+					[
+						"modal",
+						"app/assets/javascripts/global/modal.js"
+					],
+					[
+						"examples.ym",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"en.yml",
+						"config/locales/en.yml"
+					],
+					[
+						"modal.sc",
+						"app/assets/stylesheets/modules/_modal.scss"
+					],
+					[
+						"vari",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"helper",
+						"app/helpers/examples_helper.rb"
+					],
+					[
+						"yml",
+						"config/locales/en.yml"
+					],
+					[
+						"help",
+						"app/helpers/examples_helper.rb"
+					],
+					[
+						"examplesgrid",
+						"app/assets/stylesheets/modules/_examples-grid.scss"
+					],
+					[
+						"nav.scss",
+						"app/assets/stylesheets/global/_nav.scss"
+					],
+					[
+						"nav.scs",
+						"public/assets/source_maps/_nav.scss"
+					],
+					[
+						"careers",
+						"app/controllers/careers_controller.rb"
+					],
+					[
+						"modal.j",
+						"app/assets/javascripts/global/modal.js"
+					],
+					[
+						"signup",
+						"app/assets/javascripts/global/signup_modal.js"
+					],
+					[
+						"carousel",
+						"app/assets/javascripts/modules/carousel.js"
+					],
+					[
+						"moda",
+						"app/assets/javascripts/modules/modal.js"
+					],
+					[
+						"onlinescss",
+						"app/assets/stylesheets/pages/online.scss"
+					],
+					[
+						"popover",
+						"app/assets/javascripts/modules/popover.js"
+					],
+					[
+						"picturef",
+						"vendor/assets/javascripts/picturefill.js"
+					],
+					[
+						"head_s",
+						"app/assets/javascripts/head_scripts.js"
+					],
+					[
+						"app",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"appli",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"demo-mo",
+						"app/views/sandbox/demo-modal.html.erb"
+					],
+					[
+						"demo_mo",
+						"app/assets/javascripts/sandbox/demo_modal.js"
+					],
+					[
+						"a11",
+						"app/assets/javascripts/global/a11y-helpers.js"
+					],
+					[
+						"appl",
+						"app/assets/javascripts/application.js"
+					],
+					[
+						"examplejs",
+						"app/assets/javascripts/modules/example-browser.js"
+					],
+					[
+						"var",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"signupmodal",
+						"app/assets/javascripts/global/signup_modal.js"
+					],
+					[
+						"grid",
+						"app/assets/stylesheets/global/_grid.scss"
+					],
+					[
+						"prepa",
+						"app/assets/javascripts/lib/jquery.preparetransition.js"
+					],
+					[
+						"modal.",
+						"app/assets/stylesheets/modules/_modal.scss"
+					],
+					[
+						"examples",
+						"app/assets/stylesheets/modules/_examples-grid.scss"
+					],
+					[
+						"mobil",
+						"app/assets/javascripts/modules/mobile-select-nav.js"
+					],
+					[
+						"prepare",
+						"app/assets/javascripts/lib/jquery.preparetransition.js"
+					],
+					[
+						"pricin",
+						"app/assets/stylesheets/pages/pricing.scss"
+					],
+					[
+						"exam",
+						"config/locales/online/examples.yml"
+					],
+					[
+						"online.",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"mobile-se",
+						"app/assets/javascripts/modules/mobile-select-nav.js"
+					],
+					[
+						"onlin.j",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"online.j",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"exah",
+						"app/helpers/examples_helper.rb"
+					],
+					[
+						"onlin.jst",
+						"app/assets/javascripts/templates/store_examples/online.jst.ejs"
+					],
+					[
+						"exbr",
+						"app/assets/javascripts/modules/example-browser.js"
+					],
+					[
+						"jstexampl",
+						"app/assets/javascripts/templates/modal/online_examples.jst.ejs"
+					],
+					[
+						"exmaple",
+						"app/views/online/partials/_example.html.erb"
+					],
+					[
+						"_exam",
+						"app/views/online/partials/_example.html.erb"
+					],
+					[
+						"onlin",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"forms",
+						"app/assets/stylesheets/global/_forms.scss"
+					],
+					[
+						"va",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"icons_dat",
+						"app/assets/stylesheets/global/_icons_data.scss"
+					],
+					[
+						"icon",
+						"app/assets/stylesheets/global/_icons.scss"
+					],
+					[
+						".giti",
+						".gitignore"
+					],
+					[
+						"ejs",
+						"app/assets/javascripts/templates/modal/online_examples.jst.ejs"
+					],
+					[
+						"_example",
+						"app/views/online/partials/_example.html.erb"
+					],
+					[
+						"varia",
+						"app/assets/stylesheets/_variables.scss"
+					],
+					[
+						"moderniz",
+						"vendor/assets/javascripts/modernizr.js"
+					],
+					[
+						"video",
+						"app/views/modules/_video.html.erb"
+					],
+					[
+						"homep",
+						"app/assets/stylesheets/pages/homepage.scss"
+					],
+					[
+						"homepage",
+						"app/assets/stylesheets/pages/homepage.scss"
+					],
+					[
+						"_pictu",
+						"app/views/modules/_picture.html.erb"
+					],
+					[
+						"transitio",
+						"app/assets/javascripts/lib/jquery.preparetransition.js"
+					],
+					[
+						"case_",
+						"app/views/modules/_case_studies_photos.html.erb"
+					],
+					[
+						"feature_item",
+						"app/views/modules/_feature_item.html.erb"
+					],
+					[
+						"testimonials",
+						"app/helpers/testimonials_helper.rb"
+					],
+					[
+						"templa",
+						"app/assets/javascripts/global/templates.js"
+					],
+					[
+						"gri",
+						"app/assets/stylesheets/global/_grid.scss"
+					],
+					[
+						"case",
+						"app/views/modules/_case_study.html.erb"
+					],
+					[
+						"javascripts/page",
+						"app/assets/javascripts/pages/online.js"
+					],
+					[
+						"evniron/deve",
+						"config/environments/development.rb"
+					],
+					[
+						"dashboardcon",
+						"app/controllers/admin/dashboard_controller.rb"
+					],
+					[
+						"themesscss",
+						"app/assets/batman/admin2/resources/css/_themes.scss"
+					],
+					[
+						"mixins",
+						"app/assets/stylesheets/checkout/_partials/_mixins.scss"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+				],
+				"width": 457.0
+			},
+			"settings":
+			{
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": false,
+			"side_bar_visible": true,
+			"side_bar_width": 273.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 255,
+			"workspace_name": "/Users/gavin/Desktop/projects/facebook-commerce-app.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/gavin/Desktop/projects/shopify.sublime-workspace",
+			"/Users/gavin/Desktop/projects/facebook-commerce-app.sublime-workspace",
+			"/Users/gavin/Desktop/projects/facebook-app.sublime-workspace",
+			"/Users/gavin/Desktop/projects/brochure2.sublime-workspace",
+			"/Users/gavin/Desktop/projects/lte.sublime-workspace",
+			"/Users/gavin/localhost/www.shopify.com/plus.sublime-workspace",
+			"/Users/gavin/localhost/shopify-themesettings/themesettings.sublime-workspace",
+			"/Users/gavin/Desktop/projects/statly.sublime-workspace",
+			"/Users/gavin/Documents/color-picker-select-current-val.sublime-workspace",
+			"/Users/gavin/localhost/jetcooper/447_cineplex_store/447.sublime-workspace",
+			"/Users/gavin/Desktop/shopify.sublime-workspace",
+			"/Users/gavin/localhost/shopify.sublime-workspace"
+		]
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"licensed": true,
+	"packages":
+	[
+		"Alignment",
+		"Better CoffeeScript",
+		"CSS3_Syntax",
+		"Emmet",
+		"GitGutter",
+		"GitHubinator",
+		"Handlebars",
+		"Liquid",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"sublime-jslint",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-jscs",
+		"Tag",
+		"Theme - itg.flat",
+		"Theme - Soda"
+	],
+	"startup_sec": 0.594478,
+	"syntax":
+	{
+		"HTML (Rails)": 30,
+		"Sass": 56
+	},
+	"time": 1407769836
+}
