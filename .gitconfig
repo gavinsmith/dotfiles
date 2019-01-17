@@ -1,0 +1,29 @@
+[user]
+	name = Gavin Smith
+	email = gavin@gavinsmith.ca
+[alias]
+	co = checkout
+	st = status
+	br = branch
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+[core]
+	excludesfile = /Users/gavin/.gitignore
+	editor = code --wait
+[push]
+    default = upstream
+[pager]
+	branch = false
+[diff]
+	algorithm = patience
+	tool = default-difftool
+[difftool "default-difftool"]
+    cmd = code --wait --diff $LOCAL $REMOTE
+[protocol]
+	version = 2
+[credential]
+	helper = osxkeychain
