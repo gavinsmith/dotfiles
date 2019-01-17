@@ -1,0 +1,22 @@
+{
+    "telemetry.enableTelemetry": false,
+    "workbench.statusBar.feedback.visible": false,
+    "files.insertFinalNewline": true,
+    "editor.find.seedSearchStringFromSelection": true,
+    "workbench.editor.enablePreview": true,
+    "editor.scrollBeyondLastLine": true,
+    "editor.tabSize": 2,
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "workbench.colorTheme": "Monokai",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "editor.minimap.enabled": false,
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "window.restoreWindows": "all",
+    "workbench.startupEditor": "newUntitledFile"
+}
