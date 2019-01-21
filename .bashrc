@@ -1,3 +1,5 @@
+source ~/.git-prompt.sh
+
 # git commamands simplified
 alias gst='git status'
 alias gco='git checkout'
@@ -38,5 +40,7 @@ function color_my_prompt {
     export PS1="$__cur_location $__git_branch_color$__git_branch$__prompt_tail$__last_color "
 }
 color_my_prompt
+
+export PROMPT_COMMAND='echo -ne "\033]0;${PWD##*/}$(__git_ps1 :%s)\007"'
 
 [ -f /opt/dev/dev.sh ] && source /opt/dev/dev.sh
