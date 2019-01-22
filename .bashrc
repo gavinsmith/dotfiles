@@ -41,6 +41,10 @@ function color_my_prompt {
 }
 color_my_prompt
 
+
+# app store killer
+alias killas='kill $(lsof -t -i:3300)'
+
 export PROMPT_COMMAND='echo -ne "\033]0;${PWD##*/}$(__git_ps1 :%s)\007"'
 
 [ -f /opt/dev/dev.sh ] && source /opt/dev/dev.sh
