@@ -41,6 +41,11 @@ function color_my_prompt {
 }
 color_my_prompt
 
+# git autocompletion
+# (https://raw.githubusercontent.com/git/git/master/contrib/completion/git-completion.bash)
+if [ -f ~/.git-completion.bash ]; then
+  . ~/.git-completion.bash
+fi
 
 # app store killer
 alias killas='kill $(lsof -t -i:3300)'
