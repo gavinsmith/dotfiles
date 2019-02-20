@@ -36,7 +36,7 @@ alias be='bundle exec '
 ##########
 # store colors
 GIT_PROMPT_THEME=Solarized
-source ~/git-prompt.sh
+source ~/.git-prompt.sh
 MAGENTA="\[\033[0;35m\]"
 YELLOW="\[\033[0;33m\]"
 BLUE="\[\033[00;36m\]"
@@ -70,7 +70,8 @@ function color_my_prompt {
 }
 
 # configure PROMPT_COMMAND which is executed each time before PS1
-export PROMPT_COMMAND=color_my_prompt
+PROMPT_COMMAND=color_my_prompt
+export PROMPT_COMMAND="echo -ne '\033]0;${PWD##*/}\007';$PROMPT_COMMAND"
 
 # if .git-prompt.sh exists, set options and execute it
 if [ -f ~/.git-prompt.sh ]; then
