@@ -98,3 +98,19 @@ alias fuckit='dev down;dev up;dev s'
 # export PROMPT_COMMAND='echo -ne "\033]0;${PWD##*/}$(__git_ps1 :%s)\007"'
 
 [ -f /opt/dev/dev.sh ] && source /opt/dev/dev.sh
+
+# load shopify-app-cli, but only if present and the shell is interactive
+if [[ -f "/Users/gavinsmith/.shopify-app-cli/shopify.sh"  ]] && [[ hB == *i* ]]; then
+  source "/Users/gavinsmith/.shopify-app-cli/shopify.sh"
+fi
+
+# title iterm tabs
+# https://superuser.com/questions/419775/with-bash-iterm2-how-to-name-tabs#answer-945514
+function title ()
+{
+    TITLE=$*;
+    export PROMPT_COMMAND='echo -ne "\033]0;$TITLE\007"'
+}
+
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
